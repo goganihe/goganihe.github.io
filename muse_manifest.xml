@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="goganihe.tk" resolutions="1x" timestamp="1507568489644">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="goganihe.github.io" resolutions="1x" timestamp="1507589406351">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-______.css" crc="3971623359" ref="аккаунты:файлы:поддержать:index:контакт:обо-мне"/>
-    <file name="________.css" crc="289622009" ref="аккаунты"/>
-    <file name="_____.css" crc="289622009" ref="файлы"/>
-    <file name="__________.css" crc="289622009" ref="поддержать"/>
-    <file name="index.css" crc="378877289" ref="index"/>
-    <file name="_______.css" crc="4250220418" ref="контакт"/>
+    <file name="master_______-______.css" crc="3971623359" ref="обо-мне:аккаунты:контакт:index:поддержать:файлы"/>
     <file name="___-___.css" crc="289622009" ref="обо-мне"/>
+    <file name="________.css" crc="289622009" ref="аккаунты"/>
+    <file name="_______.css" crc="3811591877" ref="контакт"/>
+    <file name="index.css" crc="353104281" ref="index"/>
+    <file name="__________.css" crc="289622009" ref="поддержать"/>
+    <file name="_____.css" crc="289622009" ref="файлы"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
@@ -337,10 +337,10 @@
     <file name="u1733-m.png" crc="3828451325" ref="контакт"/>
     <file name="u1733-fs.png" crc="394434906" ref="контакт"/>
   </folder>
-  <file name="index.html" crc="3960863795" seo="true" mt="1507562672329" redirect="true"/>
+  <file name="index.html" crc="208049421" seo="true" mt="1507562672329" redirect="true"/>
   <file name="аккаунты.html" crc="4023487789" seo="true" mt="1507562143476" redirect="true"/>
   <file name="файлы.html" crc="365697842" seo="true" mt="1507562143476" redirect="true"/>
-  <file name="контакт.html" crc="528376407" seo="true" mt="1507568488061" redirect="true"/>
+  <file name="контакт.html" crc="376818401" seo="true" mt="1507589404592" redirect="true"/>
   <file name="обо-мне.html" crc="190632226" seo="true" mt="1507562143476" redirect="true"/>
   <file name="поддержать.html" crc="4091114503" seo="true" mt="1507562143476" redirect="true"/>
 </manifest>
