@@ -1,0 +1,346 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="goganihe.tk" resolutions="1x" timestamp="1507568489644">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-______.css" crc="3971623359" ref="аккаунты:файлы:поддержать:index:контакт:обо-мне"/>
+    <file name="________.css" crc="289622009" ref="аккаунты"/>
+    <file name="_____.css" crc="289622009" ref="файлы"/>
+    <file name="__________.css" crc="289622009" ref="поддержать"/>
+    <file name="index.css" crc="378877289" ref="index"/>
+    <file name="_______.css" crc="4250220418" ref="контакт"/>
+    <file name="___-___.css" crc="289622009" ref="обо-мне"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="museutils.js" crc="4232573551" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="whatinput.js" crc="86476730" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="require.js" crc="4234670167" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="webpro.js" crc="3770351119" ref="контакт"/>
+    <file name="form_check.php" crc="3841221102" ref="контакт"/>
+    <file name="form_throttle.php" crc="4048049783" ref="контакт"/>
+    <file name="form_process.php" crc="3899230280" ref="контакт"/>
+    <file name="form-u1712.php" crc="4092730177" ref="контакт"/>
+  </folder>
+  <folder name="images">
+    <file name="u1063-7.png" crc="4166933354" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="blank.gif" crc="4208392903" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1047.png" crc="267361354" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1047-r.png" crc="4047527838" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1047-a.png" crc="3866654065" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1034.png" crc="3921711709" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1034-r.png" crc="4199459734" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1034-a.png" crc="4053499718" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1037.png" crc="3908076983" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1037-r.png" crc="3983704579" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1037-a.png" crc="388286857" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1060.png" crc="4015869326" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1060-r.png" crc="144375484" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1060-a.png" crc="502366057" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1051.png" crc="132594944" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1051-r.png" crc="3860389612" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1051-a.png" crc="3779369661" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3009.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5938-4.png" crc="3791578762" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3049.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3053.png" crc="4173976645" ref="index"/>
+    <file name="u3053-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3074.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3078.png" crc="4173976645" ref="index"/>
+    <file name="u3078-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3082.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3086.png" crc="4173976645" ref="index"/>
+    <file name="u3086-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3124.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3128.png" crc="4173976645" ref="index"/>
+    <file name="u3128-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3149.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3153.png" crc="4173976645" ref="index"/>
+    <file name="u3153-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3157.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3161.png" crc="4173976645" ref="index"/>
+    <file name="u3161-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3165.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3169.png" crc="4173976645" ref="index"/>
+    <file name="u3169-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3173.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3177.png" crc="4173976645" ref="index"/>
+    <file name="u3177-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3181.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3185.png" crc="4173976645" ref="index"/>
+    <file name="u3185-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3274.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3278.png" crc="4173976645" ref="index"/>
+    <file name="u3278-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3282.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3286.png" crc="4173976645" ref="index"/>
+    <file name="u3286-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3290.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3294.png" crc="4173976645" ref="index"/>
+    <file name="u3294-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3298.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3302.png" crc="4173976645" ref="index"/>
+    <file name="u3302-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3306.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3310.png" crc="4173976645" ref="index"/>
+    <file name="u3310-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3314.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3318.png" crc="4173976645" ref="index"/>
+    <file name="u3318-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3322.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3326.png" crc="4173976645" ref="index"/>
+    <file name="u3326-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3330.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3334.png" crc="4173976645" ref="index"/>
+    <file name="u3334-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3338.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3342.png" crc="4173976645" ref="index"/>
+    <file name="u3342-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3346.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3350.png" crc="4173976645" ref="index"/>
+    <file name="u3350-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3524.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3528.png" crc="4173976645" ref="index"/>
+    <file name="u3528-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3532.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3536.png" crc="4173976645" ref="index"/>
+    <file name="u3536-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3540.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3544.png" crc="4173976645" ref="index"/>
+    <file name="u3544-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3548.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3552.png" crc="4173976645" ref="index"/>
+    <file name="u3552-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3556.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3560.png" crc="4173976645" ref="index"/>
+    <file name="u3560-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3564.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3568.png" crc="4173976645" ref="index"/>
+    <file name="u3568-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3572.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3576.png" crc="4173976645" ref="index"/>
+    <file name="u3576-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3580.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3584.png" crc="4173976645" ref="index"/>
+    <file name="u3584-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3588.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3592.png" crc="4173976645" ref="index"/>
+    <file name="u3592-r.png" crc="522824681" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u3596.jpg" crc="47024588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3600.png" crc="4173976645" ref="index"/>
+    <file name="u3600-r.png" crc="522824681" ref="index"/>
+    <file name="u4772.png" crc="361414219" ref="index"/>
+    <file name="u4772-r.png" crc="355493379" ref="index"/>
+    <file name="u4772-a.png" crc="355493379" ref="index"/>
+    <file name="u3035-4.png" crc="3933776005" ref="index"/>
+    <file name="u3054-4.png" crc="3933776005" ref="index"/>
+    <file name="u3079-4.png" crc="3933776005" ref="index"/>
+    <file name="u3087-4.png" crc="3933776005" ref="index"/>
+    <file name="u3129-4.png" crc="3933776005" ref="index"/>
+    <file name="u3154-4.png" crc="3933776005" ref="index"/>
+    <file name="u3162-4.png" crc="3933776005" ref="index"/>
+    <file name="u3170-4.png" crc="3933776005" ref="index"/>
+    <file name="u3178-4.png" crc="3933776005" ref="index"/>
+    <file name="u3186-4.png" crc="3933776005" ref="index"/>
+    <file name="u3279-4.png" crc="3933776005" ref="index"/>
+    <file name="u3287-4.png" crc="3933776005" ref="index"/>
+    <file name="u3295-4.png" crc="3933776005" ref="index"/>
+    <file name="u3303-4.png" crc="3933776005" ref="index"/>
+    <file name="u3311-4.png" crc="3933776005" ref="index"/>
+    <file name="u3319-4.png" crc="3933776005" ref="index"/>
+    <file name="u3327-4.png" crc="3933776005" ref="index"/>
+    <file name="u3335-4.png" crc="3933776005" ref="index"/>
+    <file name="u3343-4.png" crc="3933776005" ref="index"/>
+    <file name="u3351-4.png" crc="3933776005" ref="index"/>
+    <file name="u3529-4.png" crc="3933776005" ref="index"/>
+    <file name="u3537-4.png" crc="3933776005" ref="index"/>
+    <file name="u3545-4.png" crc="3933776005" ref="index"/>
+    <file name="u3553-4.png" crc="3933776005" ref="index"/>
+    <file name="u3561-4.png" crc="3933776005" ref="index"/>
+    <file name="u3569-4.png" crc="3933776005" ref="index"/>
+    <file name="u3577-4.png" crc="3933776005" ref="index"/>
+    <file name="u3585-4.png" crc="3933776005" ref="index"/>
+    <file name="u3593-4.png" crc="3933776005" ref="index"/>
+    <file name="u3601-4.png" crc="3933776005" ref="index"/>
+    <file name="u4796.png" crc="4052174153" ref="index"/>
+    <file name="u4796-r.png" crc="316806109" ref="index"/>
+    <file name="u4796-a.png" crc="316806109" ref="index"/>
+    <file name="u4820.png" crc="69900218" ref="index"/>
+    <file name="u4820-r.png" crc="293193988" ref="index"/>
+    <file name="u4820-a.png" crc="293193988" ref="index"/>
+    <file name="u4844.png" crc="4027417443" ref="index"/>
+    <file name="u4844-r.png" crc="187296679" ref="index"/>
+    <file name="u4844-a.png" crc="187296679" ref="index"/>
+    <file name="u5081.png" crc="231420256" ref="index"/>
+    <file name="u5081-r.png" crc="71748046" ref="index"/>
+    <file name="u5239.png" crc="231420256" ref="index"/>
+    <file name="u5239-r.png" crc="71748046" ref="index"/>
+    <file name="u5263.png" crc="231420256" ref="index"/>
+    <file name="u5263-r.png" crc="71748046" ref="index"/>
+    <file name="u5287.png" crc="231420256" ref="index"/>
+    <file name="u5287-r.png" crc="71748046" ref="index"/>
+    <file name="u5311.png" crc="231420256" ref="index"/>
+    <file name="u5311-r.png" crc="71748046" ref="index"/>
+    <file name="u5335.png" crc="231420256" ref="index"/>
+    <file name="u5335-r.png" crc="71748046" ref="index"/>
+    <file name="u5359.png" crc="231420256" ref="index"/>
+    <file name="u5359-r.png" crc="71748046" ref="index"/>
+    <file name="u5383.png" crc="231420256" ref="index"/>
+    <file name="u5383-r.png" crc="71748046" ref="index"/>
+    <file name="u5407.png" crc="231420256" ref="index"/>
+    <file name="u5407-r.png" crc="71748046" ref="index"/>
+    <file name="u5431.png" crc="231420256" ref="index"/>
+    <file name="u5431-r.png" crc="71748046" ref="index"/>
+    <file name="u5455.png" crc="231420256" ref="index"/>
+    <file name="u5455-r.png" crc="71748046" ref="index"/>
+    <file name="u5479.png" crc="231420256" ref="index"/>
+    <file name="u5479-r.png" crc="71748046" ref="index"/>
+    <file name="u5503.png" crc="231420256" ref="index"/>
+    <file name="u5503-r.png" crc="71748046" ref="index"/>
+    <file name="u5527.png" crc="231420256" ref="index"/>
+    <file name="u5527-r.png" crc="71748046" ref="index"/>
+    <file name="u5551.png" crc="231420256" ref="index"/>
+    <file name="u5551-r.png" crc="71748046" ref="index"/>
+    <file name="u5575.png" crc="231420256" ref="index"/>
+    <file name="u5575-r.png" crc="71748046" ref="index"/>
+    <file name="u5599.png" crc="231420256" ref="index"/>
+    <file name="u5599-r.png" crc="71748046" ref="index"/>
+    <file name="u5623.png" crc="231420256" ref="index"/>
+    <file name="u5623-r.png" crc="71748046" ref="index"/>
+    <file name="u5647.png" crc="231420256" ref="index"/>
+    <file name="u5647-r.png" crc="71748046" ref="index"/>
+    <file name="u5671.png" crc="231420256" ref="index"/>
+    <file name="u5671-r.png" crc="71748046" ref="index"/>
+    <file name="u5695.png" crc="231420256" ref="index"/>
+    <file name="u5695-r.png" crc="71748046" ref="index"/>
+    <file name="u5719.png" crc="231420256" ref="index"/>
+    <file name="u5719-r.png" crc="71748046" ref="index"/>
+    <file name="u5743.png" crc="231420256" ref="index"/>
+    <file name="u5743-r.png" crc="71748046" ref="index"/>
+    <file name="u5767.png" crc="231420256" ref="index"/>
+    <file name="u5767-r.png" crc="71748046" ref="index"/>
+    <file name="u5791.png" crc="231420256" ref="index"/>
+    <file name="u5791-r.png" crc="71748046" ref="index"/>
+    <file name="u5815.png" crc="231420256" ref="index"/>
+    <file name="u5815-r.png" crc="71748046" ref="index"/>
+    <file name="u5839.png" crc="231420256" ref="index"/>
+    <file name="u5839-r.png" crc="71748046" ref="index"/>
+    <file name="u5863.png" crc="231420256" ref="index"/>
+    <file name="u5863-r.png" crc="71748046" ref="index"/>
+    <file name="u5887.png" crc="231420256" ref="index"/>
+    <file name="u5887-r.png" crc="71748046" ref="index"/>
+    <file name="u5911.png" crc="231420256" ref="index"/>
+    <file name="u5911-r.png" crc="71748046" ref="index"/>
+    <file name="u4868.png" crc="33394321" ref="index"/>
+    <file name="u4868-r.png" crc="4217473646" ref="index"/>
+    <file name="u4868-a.png" crc="4217473646" ref="index"/>
+    <file name="u1521.png" crc="517945612" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1521-r.png" crc="334146796" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1521-a.png" crc="517945612" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u3790-4.png" crc="203195007" ref="index"/>
+    <file name="u3796-4.png" crc="203195007" ref="index"/>
+    <file name="u3799-4.png" crc="203195007" ref="index"/>
+    <file name="u3802-4.png" crc="203195007" ref="index"/>
+    <file name="u3805-4.png" crc="203195007" ref="index"/>
+    <file name="u3808-4.png" crc="203195007" ref="index"/>
+    <file name="u3811-4.png" crc="203195007" ref="index"/>
+    <file name="u3814-4.png" crc="203195007" ref="index"/>
+    <file name="u3817-4.png" crc="203195007" ref="index"/>
+    <file name="u3820-4.png" crc="203195007" ref="index"/>
+    <file name="u3823-4.png" crc="203195007" ref="index"/>
+    <file name="u3826-4.png" crc="203195007" ref="index"/>
+    <file name="u3829-4.png" crc="203195007" ref="index"/>
+    <file name="u3832-4.png" crc="203195007" ref="index"/>
+    <file name="u3835-4.png" crc="203195007" ref="index"/>
+    <file name="u3838-4.png" crc="203195007" ref="index"/>
+    <file name="u3841-4.png" crc="203195007" ref="index"/>
+    <file name="u3844-4.png" crc="203195007" ref="index"/>
+    <file name="u3847-4.png" crc="203195007" ref="index"/>
+    <file name="u3850-4.png" crc="203195007" ref="index"/>
+    <file name="u3853-4.png" crc="203195007" ref="index"/>
+    <file name="u3856-4.png" crc="203195007" ref="index"/>
+    <file name="u3859-4.png" crc="203195007" ref="index"/>
+    <file name="u3862-4.png" crc="203195007" ref="index"/>
+    <file name="u3865-4.png" crc="203195007" ref="index"/>
+    <file name="u3871-4.png" crc="203195007" ref="index"/>
+    <file name="u3868-4.png" crc="203195007" ref="index"/>
+    <file name="u3874-4.png" crc="203195007" ref="index"/>
+    <file name="u3877-4.png" crc="203195007" ref="index"/>
+    <file name="u3880-4.png" crc="203195007" ref="index"/>
+    <file name="u3889-4.png" crc="3992410581" ref="index"/>
+    <file name="u1751-fse.png" crc="3954800974" ref="контакт"/>
+    <file name="u1752-fss.png" crc="422692818" ref="контакт"/>
+    <file name="u1733.png" crc="350153818" ref="контакт"/>
+    <file name="u1733-r.png" crc="478168236" ref="контакт"/>
+    <file name="u1733-m.png" crc="3828451325" ref="контакт"/>
+    <file name="u1733-fs.png" crc="394434906" ref="контакт"/>
+  </folder>
+  <file name="index.html" crc="3960863795" seo="true" mt="1507562672329" redirect="true"/>
+  <file name="аккаунты.html" crc="4023487789" seo="true" mt="1507562143476" redirect="true"/>
+  <file name="файлы.html" crc="365697842" seo="true" mt="1507562143476" redirect="true"/>
+  <file name="контакт.html" crc="528376407" seo="true" mt="1507568488061" redirect="true"/>
+  <file name="обо-мне.html" crc="190632226" seo="true" mt="1507562143476" redirect="true"/>
+  <file name="поддержать.html" crc="4091114503" seo="true" mt="1507562143476" redirect="true"/>
+</manifest>
