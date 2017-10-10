@@ -1,47 +1,47 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1507615915409">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1507619105210">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-______.css" crc="3971623359" ref="файлы:обо-мне:аккаунты:index:контакт:поддержать"/>
-    <file name="_____.css" crc="289622009" ref="файлы"/>
-    <file name="___-___.css" crc="289622009" ref="обо-мне"/>
-    <file name="________.css" crc="289622009" ref="аккаунты"/>
+    <file name="master_______-______.css" crc="3971623359" ref="contact:support:files:index:about-me:accounts"/>
+    <file name="contact.css" crc="4250220418" ref="contact"/>
+    <file name="support.css" crc="289622009" ref="support"/>
+    <file name="files.css" crc="289622009" ref="files"/>
     <file name="index.css" crc="378877289" ref="index"/>
-    <file name="_______.css" crc="4250220418" ref="контакт"/>
-    <file name="__________.css" crc="289622009" ref="поддержать"/>
+    <file name="about-me.css" crc="289622009" ref="about-me"/>
+    <file name="accounts.css" crc="289622009" ref="accounts"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="museutils.js" crc="4232573551" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="whatinput.js" crc="86476730" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="require.js" crc="4234670167" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="webpro.js" crc="3770351119" ref="контакт"/>
-    <file name="form_check.php" crc="3841221102" ref="контакт"/>
-    <file name="form_throttle.php" crc="4048049783" ref="контакт"/>
-    <file name="form_process.php" crc="3899230280" ref="контакт"/>
-    <file name="form-u1712.php" crc="4092730177" ref="контакт"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="museutils.js" crc="4232573551" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="whatinput.js" crc="86476730" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="require.js" crc="4234670167" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="webpro.js" crc="3770351119" ref="contact"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u1712.php" crc="4092730177" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="u1063-7.png" crc="4166933354" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="blank.gif" crc="4208392903" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1047.png" crc="267361354" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1047-r.png" crc="4047527838" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1047-a.png" crc="3866654065" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1034.png" crc="3921711709" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1034-r.png" crc="4199459734" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1034-a.png" crc="4053499718" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1037.png" crc="3908076983" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1037-r.png" crc="3983704579" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1037-a.png" crc="388286857" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1060.png" crc="4015869326" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1060-r.png" crc="144375484" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1060-a.png" crc="502366057" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1051.png" crc="132594944" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1051-r.png" crc="3860389612" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1051-a.png" crc="3779369661" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1063-7.png" crc="4166933354" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="blank.gif" crc="4208392903" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1047.png" crc="267361354" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1047-r.png" crc="4047527838" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1047-a.png" crc="3866654065" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1034.png" crc="3921711709" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1034-r.png" crc="4199459734" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1034-a.png" crc="4053499718" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1037.png" crc="3908076983" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1037-r.png" crc="3983704579" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1037-a.png" crc="388286857" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1060.png" crc="4015869326" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1060-r.png" crc="144375484" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1060-a.png" crc="502366057" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1051.png" crc="132594944" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1051-r.png" crc="3860389612" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1051-a.png" crc="3779369661" ref="index:accounts:files:contact:about-me:support"/>
     <file name="untitled_by_elgama-d5hhapn-crop-u3009.jpg" crc="47024588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -296,9 +296,9 @@
     <file name="u4868.png" crc="33394321" ref="index"/>
     <file name="u4868-r.png" crc="4217473646" ref="index"/>
     <file name="u4868-a.png" crc="4217473646" ref="index"/>
-    <file name="u1521.png" crc="517945612" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1521-r.png" crc="334146796" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
-    <file name="u1521-a.png" crc="517945612" ref="index:аккаунты:файлы:контакт:обо-мне:поддержать"/>
+    <file name="u1521.png" crc="517945612" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1521-r.png" crc="334146796" ref="index:accounts:files:contact:about-me:support"/>
+    <file name="u1521-a.png" crc="517945612" ref="index:accounts:files:contact:about-me:support"/>
     <file name="u3790-4.png" crc="203195007" ref="index"/>
     <file name="u3796-4.png" crc="203195007" ref="index"/>
     <file name="u3799-4.png" crc="203195007" ref="index"/>
@@ -330,17 +330,17 @@
     <file name="u3877-4.png" crc="203195007" ref="index"/>
     <file name="u3880-4.png" crc="203195007" ref="index"/>
     <file name="u3889-4.png" crc="3992410581" ref="index"/>
-    <file name="u1751-fse.png" crc="3954800974" ref="контакт"/>
-    <file name="u1752-fss.png" crc="422692818" ref="контакт"/>
-    <file name="u1733.png" crc="350153818" ref="контакт"/>
-    <file name="u1733-r.png" crc="478168236" ref="контакт"/>
-    <file name="u1733-m.png" crc="3828451325" ref="контакт"/>
-    <file name="u1733-fs.png" crc="394434906" ref="контакт"/>
+    <file name="u1751-fse.png" crc="3954800974" ref="contact"/>
+    <file name="u1752-fss.png" crc="422692818" ref="contact"/>
+    <file name="u1733.png" crc="350153818" ref="contact"/>
+    <file name="u1733-r.png" crc="478168236" ref="contact"/>
+    <file name="u1733-m.png" crc="3828451325" ref="contact"/>
+    <file name="u1733-fs.png" crc="394434906" ref="contact"/>
   </folder>
-  <file name="index.html" crc="3960863795" seo="true" mt="1507562672329" redirect="true"/>
-  <file name="аккаунты.html" crc="4023487789" seo="true" mt="1507562143476" redirect="true"/>
-  <file name="файлы.html" crc="365697842" seo="true" mt="1507562143476" redirect="true"/>
-  <file name="контакт.html" crc="528376407" seo="true" mt="1507615913800" redirect="true"/>
-  <file name="обо-мне.html" crc="190632226" seo="true" mt="1507562143476" redirect="true"/>
-  <file name="поддержать.html" crc="4091114503" seo="true" mt="1507562143476" redirect="true"/>
+  <file name="index.html" crc="3944788103" seo="true" mt="1507618958961" redirect="true"/>
+  <file name="accounts.html" crc="533618789" seo="true" mt="1507618958961" redirect="true"/>
+  <file name="files.html" crc="42137667" seo="true" mt="1507618958961" redirect="true"/>
+  <file name="contact.html" crc="459159340" seo="true" mt="1507619103607" redirect="true"/>
+  <file name="about-me.html" crc="3832437204" seo="true" mt="1507618958961" redirect="true"/>
+  <file name="support.html" crc="3854007552" seo="true" mt="1507618958977" redirect="true"/>
 </manifest>
