@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1507674417962">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1507677415753">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-______.css" crc="510239493" ref="contact:support:files:index:about-me:accounts:homepage4:homepage6:homepage8:homepage2:homepage5:homepage9:homepage7:homepage10:homepage3"/>
-    <file name="contact.css" crc="3811591877" ref="contact"/>
+    <file name="master_______-______.css" crc="197090628" ref="contact:support:files:index:about-me:accounts:homepage4:homepage6:homepage8:homepage2:homepage5:homepage9:homepage7:homepage10:homepage3"/>
+    <file name="contact.css" crc="4250220418" ref="contact"/>
     <file name="support.css" crc="289622009" ref="support"/>
     <file name="files.css" crc="289622009" ref="files"/>
     <file name="index.css" crc="4088824728" ref="index"/>
@@ -341,7 +341,7 @@
     <file name="u1733-r.png" crc="478168236" ref="contact"/>
     <file name="u1733-m.png" crc="3828451325" ref="contact"/>
     <file name="u1733-fs.png" crc="394434906" ref="contact"/>
-    <file name="favicon.ico" crc="4194507461" ref="index"/>
+    <file name="favicon.ico" crc="310882137" ref="index:contact"/>
     <file name="u6093.png" crc="4173976645" ref="index"/>
     <file name="u6093-r.png" crc="522824681" ref="index"/>
     <file name="u4772-4-a.png" crc="355493379" ref="index"/>
@@ -2905,7 +2905,7 @@
   <file name="index.html" crc="4238491126" seo="true" mt="1507673932141" redirect="true"/>
   <file name="accounts.html" crc="4169103377" seo="true" mt="1507673932141" redirect="true"/>
   <file name="files.html" crc="372672027" seo="true" mt="1507673932141" redirect="true"/>
-  <file name="contact.html" crc="3956846254" seo="true" mt="1507674311988" redirect="true"/>
+  <file name="contact.html" crc="379384418" seo="true" mt="1507677411920" redirect="true"/>
   <file name="about-me.html" crc="33215553" seo="true" mt="1507673932141" redirect="true"/>
   <file name="support.html" crc="524640401" seo="true" mt="1507673932141" redirect="true"/>
   <file name="homepage2.html" crc="191709865" seo="true" mt="1507673932141" redirect="true"/>
