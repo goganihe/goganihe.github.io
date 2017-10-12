@@ -1,59 +1,59 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://goganihe.tk" resolutions="1x" timestamp="1507752115078">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1507793741541">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-______.css" crc="197090628" ref="contact:support:files:index:about-me:accounts:homepage4:homepage6:homepage8:homepage2:homepage5:homepage9:homepage7:homepage10:homepage3"/>
-    <file name="contact.css" crc="3896259758" ref="contact"/>
-    <file name="support.css" crc="289622009" ref="support"/>
-    <file name="files.css" crc="289622009" ref="files"/>
-    <file name="index.css" crc="316876942" ref="index"/>
-    <file name="about-me.css" crc="289622009" ref="about-me"/>
-    <file name="accounts.css" crc="289622009" ref="accounts"/>
-    <file name="homepage4.css" crc="300508313" ref="homepage4"/>
-    <file name="homepage6.css" crc="4201939613" ref="homepage6"/>
-    <file name="homepage8.css" crc="496097487" ref="homepage8"/>
-    <file name="homepage2.css" crc="37423549" ref="homepage2"/>
-    <file name="homepage5.css" crc="3838884236" ref="homepage5"/>
-    <file name="homepage9.css" crc="184820366" ref="homepage9"/>
-    <file name="homepage7.css" crc="4211897683" ref="homepage7"/>
-    <file name="homepage10.css" crc="3944401760" ref="homepage10"/>
-    <file name="homepage3.css" crc="3982150938" ref="homepage3"/>
+    <file name="master_______-______.css" crc="205724103" ref="contact:support:files:index:about-me:accounts:newspage10:newspage5:newspage9:newspage2:newspage8:newspage6:newspage7:newspage4:newspage3"/>
+    <file name="contact.css" crc="3844298361" ref="contact"/>
+    <file name="support.css" crc="244829945" ref="support"/>
+    <file name="files.css" crc="244829945" ref="files"/>
+    <file name="index.css" crc="444776264" ref="index"/>
+    <file name="about-me.css" crc="244829945" ref="about-me"/>
+    <file name="accounts.css" crc="4024434492" ref="accounts"/>
+    <file name="newspage10.css" crc="210668678" ref="newspage10"/>
+    <file name="newspage5.css" crc="3962268928" ref="newspage5"/>
+    <file name="newspage9.css" crc="4078488601" ref="newspage9"/>
+    <file name="newspage2.css" crc="4152588182" ref="newspage2"/>
+    <file name="newspage8.css" crc="273964298" ref="newspage8"/>
+    <file name="newspage6.css" crc="332284149" ref="newspage6"/>
+    <file name="newspage7.css" crc="3897476323" ref="newspage7"/>
+    <file name="newspage4.css" crc="520285954" ref="newspage4"/>
+    <file name="newspage3.css" crc="3827000227" ref="newspage3"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="museutils.js" crc="4232573551" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="whatinput.js" crc="86476730" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="require.js" crc="4234670167" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="museutils.js" crc="4232573551" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="require.js" crc="4234670167" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
     <file name="webpro.js" crc="3770351119" ref="contact"/>
     <file name="form_check.php" crc="3841221102" ref="contact"/>
     <file name="form_throttle.php" crc="4048049783" ref="contact"/>
     <file name="form_process.php" crc="3899230280" ref="contact"/>
-    <file name="form-u1712.php" crc="4092730177" ref="contact"/>
+    <file name="form-u1712.php" crc="210829145" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="u1063-7.png" crc="4166933354" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="blank.gif" crc="4208392903" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1047.png" crc="267361354" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1047-r.png" crc="4047527838" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1047-a.png" crc="3866654065" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1034.png" crc="3921711709" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1034-r.png" crc="4199459734" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1034-a.png" crc="4053499718" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1037.png" crc="3908076983" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1037-r.png" crc="3983704579" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1037-a.png" crc="388286857" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1060.png" crc="4015869326" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1060-r.png" crc="144375484" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1060-a.png" crc="502366057" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1051.png" crc="132594944" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1051-r.png" crc="3860389612" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1051-a.png" crc="3779369661" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1521.png" crc="517945612" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1521-r.png" crc="334146796" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
-    <file name="u1521-a.png" crc="92523392" ref="index:accounts:files:contact:about-me:support:homepage2:homepage7:homepage3:homepage4:homepage6:homepage5:homepage8:homepage9:homepage10"/>
+    <file name="u1063-7.png" crc="4166933354" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="blank.gif" crc="4208392903" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1047.png" crc="4069576057" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1047-r.png" crc="363133327" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1047-a.png" crc="3931870523" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1034.png" crc="3921711709" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1034-r.png" crc="4199459734" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1034-a.png" crc="4053499718" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1037.png" crc="3908076983" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1037-r.png" crc="3983704579" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1037-a.png" crc="388286857" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1060.png" crc="4015869326" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1060-r.png" crc="144375484" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1060-a.png" crc="502366057" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1051.png" crc="132594944" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1051-r.png" crc="3860389612" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1051-a.png" crc="3779369661" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1521.png" crc="517945612" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1521-r.png" crc="334146796" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
+    <file name="u1521-a.png" crc="92523392" ref="index:accounts:files:contact:about-me:support:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2"/>
     <file name="u1751-fse.png" crc="3954800974" ref="contact"/>
     <file name="u1752-fss.png" crc="422692818" ref="contact"/>
     <file name="u1733.png" crc="350153818" ref="contact"/>
@@ -61,132 +61,132 @@
     <file name="u1733-m.png" crc="3828451325" ref="contact"/>
     <file name="u1733-fs.png" crc="394434906" ref="contact"/>
     <file name="favicon.ico" crc="310882137" ref="accounts"/>
-    <file name="u15544.png" crc="4012776310" ref="homepage10"/>
-    <file name="u15544-r.png" crc="475098218" ref="homepage10"/>
-    <file name="u15544-a.png" crc="475098218" ref="homepage10"/>
-    <file name="u15273-4-a.png" crc="75443498" ref="homepage10"/>
-    <file name="u15695.png" crc="214814253" ref="homepage10"/>
-    <file name="u15695-r.png" crc="295429183" ref="homepage10"/>
-    <file name="u15695-a.png" crc="295429183" ref="homepage10"/>
-    <file name="u15631.png" crc="214814253" ref="homepage10"/>
-    <file name="u15631-r.png" crc="295429183" ref="homepage10"/>
-    <file name="u15631-a.png" crc="295429183" ref="homepage10"/>
-    <file name="u15429.png" crc="214814253" ref="homepage10"/>
-    <file name="u15429-r.png" crc="295429183" ref="homepage10"/>
-    <file name="u15429-a.png" crc="295429183" ref="homepage10"/>
-    <file name="u15657-4.png" crc="3992410581" ref="homepage10"/>
-    <file name="u26879.png" crc="94129074" ref="homepage9"/>
-    <file name="u26879-r.png" crc="51753110" ref="homepage9"/>
-    <file name="u26879-a.png" crc="51753110" ref="homepage9"/>
-    <file name="u26886-4-a.png" crc="475098218" ref="homepage9"/>
-    <file name="u26897.png" crc="145286616" ref="homepage9"/>
-    <file name="u26897-r.png" crc="75443498" ref="homepage9"/>
-    <file name="u26897-a.png" crc="75443498" ref="homepage9"/>
-    <file name="u26902.png" crc="214814253" ref="homepage9"/>
-    <file name="u26902-r.png" crc="295429183" ref="homepage9"/>
-    <file name="u26902-a.png" crc="295429183" ref="homepage9"/>
-    <file name="u26910.png" crc="214814253" ref="homepage9"/>
-    <file name="u26910-r.png" crc="295429183" ref="homepage9"/>
-    <file name="u26910-a.png" crc="295429183" ref="homepage9"/>
-    <file name="u25407-4.png" crc="3992410581" ref="homepage9"/>
-    <file name="u27552.png" crc="410648679" ref="homepage8"/>
-    <file name="u27552-r.png" crc="3761878106" ref="homepage8"/>
-    <file name="u27552-a.png" crc="3761878106" ref="homepage8"/>
-    <file name="u27558-4-a.png" crc="51753110" ref="homepage8"/>
-    <file name="u27568.png" crc="4012776310" ref="homepage8"/>
-    <file name="u27568-r.png" crc="475098218" ref="homepage8"/>
-    <file name="u27568-a.png" crc="475098218" ref="homepage8"/>
-    <file name="u27574.png" crc="145286616" ref="homepage8"/>
-    <file name="u27574-r.png" crc="75443498" ref="homepage8"/>
-    <file name="u27574-a.png" crc="75443498" ref="homepage8"/>
-    <file name="u27583.png" crc="214814253" ref="homepage8"/>
-    <file name="u27583-r.png" crc="295429183" ref="homepage8"/>
-    <file name="u27583-a.png" crc="295429183" ref="homepage8"/>
-    <file name="u26755-4.png" crc="3992410581" ref="homepage8"/>
-    <file name="u37030.png" crc="33394321" ref="homepage6"/>
-    <file name="u37030-r.png" crc="4217473646" ref="homepage6"/>
-    <file name="u37030-a.png" crc="4217473646" ref="homepage6"/>
-    <file name="u37037-4-a.png" crc="459097807" ref="homepage6"/>
-    <file name="u37044.png" crc="410648679" ref="homepage6"/>
-    <file name="u37044-r.png" crc="3761878106" ref="homepage6"/>
-    <file name="u37044-a.png" crc="3761878106" ref="homepage6"/>
-    <file name="u37051.png" crc="94129074" ref="homepage6"/>
-    <file name="u37051-r.png" crc="51753110" ref="homepage6"/>
-    <file name="u37051-a.png" crc="51753110" ref="homepage6"/>
-    <file name="u37059.png" crc="4012776310" ref="homepage6"/>
-    <file name="u37059-r.png" crc="475098218" ref="homepage6"/>
-    <file name="u37059-a.png" crc="475098218" ref="homepage6"/>
-    <file name="u28616-4.png" crc="3992410581" ref="homepage6"/>
-    <file name="u37197.png" crc="381791655" ref="homepage7"/>
-    <file name="u37197-r.png" crc="459097807" ref="homepage7"/>
-    <file name="u37197-a.png" crc="459097807" ref="homepage7"/>
-    <file name="u37204-4-a.png" crc="3761878106" ref="homepage7"/>
-    <file name="u37214.png" crc="94129074" ref="homepage7"/>
-    <file name="u37214-r.png" crc="51753110" ref="homepage7"/>
-    <file name="u37214-a.png" crc="51753110" ref="homepage7"/>
-    <file name="u37219.png" crc="4012776310" ref="homepage7"/>
-    <file name="u37219-r.png" crc="475098218" ref="homepage7"/>
-    <file name="u37219-a.png" crc="475098218" ref="homepage7"/>
-    <file name="u37230.png" crc="145286616" ref="homepage7"/>
-    <file name="u37230-r.png" crc="75443498" ref="homepage7"/>
-    <file name="u37230-a.png" crc="75443498" ref="homepage7"/>
-    <file name="u29700-4.png" crc="3992410581" ref="homepage7"/>
-    <file name="u36519.png" crc="4052174153" ref="homepage3"/>
-    <file name="u36519-r.png" crc="316806109" ref="homepage3"/>
-    <file name="u36519-a.png" crc="316806109" ref="homepage3"/>
-    <file name="u36529-4-a.png" crc="293193988" ref="homepage3"/>
-    <file name="u36535.png" crc="4027417443" ref="homepage3"/>
-    <file name="u36535-r.png" crc="187296679" ref="homepage3"/>
-    <file name="u36535-a.png" crc="187296679" ref="homepage3"/>
-    <file name="u36543.png" crc="33394321" ref="homepage3"/>
-    <file name="u36543-r.png" crc="4217473646" ref="homepage3"/>
-    <file name="u36543-a.png" crc="4217473646" ref="homepage3"/>
-    <file name="u36554.png" crc="381791655" ref="homepage3"/>
-    <file name="u36554-r.png" crc="459097807" ref="homepage3"/>
-    <file name="u36554-a.png" crc="459097807" ref="homepage3"/>
-    <file name="u30982-4.png" crc="3992410581" ref="homepage3"/>
-    <file name="u36690.png" crc="69900218" ref="homepage4"/>
-    <file name="u36690-r.png" crc="293193988" ref="homepage4"/>
-    <file name="u36690-a.png" crc="293193988" ref="homepage4"/>
-    <file name="u36697-4-a.png" crc="187296679" ref="homepage4"/>
-    <file name="u36707.png" crc="33394321" ref="homepage4"/>
-    <file name="u36707-r.png" crc="4217473646" ref="homepage4"/>
-    <file name="u36707-a.png" crc="4217473646" ref="homepage4"/>
-    <file name="u36713.png" crc="381791655" ref="homepage4"/>
-    <file name="u36713-r.png" crc="459097807" ref="homepage4"/>
-    <file name="u36713-a.png" crc="459097807" ref="homepage4"/>
-    <file name="u36720.png" crc="410648679" ref="homepage4"/>
-    <file name="u36720-r.png" crc="3761878106" ref="homepage4"/>
-    <file name="u36720-a.png" crc="3761878106" ref="homepage4"/>
-    <file name="u32305-4.png" crc="3992410581" ref="homepage4"/>
-    <file name="u36861.png" crc="4027417443" ref="homepage5"/>
-    <file name="u36861-r.png" crc="187296679" ref="homepage5"/>
-    <file name="u36861-a.png" crc="187296679" ref="homepage5"/>
-    <file name="u36868-4-a.png" crc="4217473646" ref="homepage5"/>
-    <file name="u36874.png" crc="381791655" ref="homepage5"/>
-    <file name="u36874-r.png" crc="459097807" ref="homepage5"/>
-    <file name="u36874-a.png" crc="459097807" ref="homepage5"/>
-    <file name="u36881.png" crc="410648679" ref="homepage5"/>
-    <file name="u36881-r.png" crc="3761878106" ref="homepage5"/>
-    <file name="u36881-a.png" crc="3761878106" ref="homepage5"/>
-    <file name="u36890.png" crc="94129074" ref="homepage5"/>
-    <file name="u36890-r.png" crc="51753110" ref="homepage5"/>
-    <file name="u36890-a.png" crc="51753110" ref="homepage5"/>
-    <file name="u33396-4.png" crc="3992410581" ref="homepage5"/>
-    <file name="u36348.png" crc="361414219" ref="homepage2"/>
-    <file name="u36348-r.png" crc="355493379" ref="homepage2"/>
-    <file name="u36348-a.png" crc="355493379" ref="homepage2"/>
-    <file name="u36358-4-a.png" crc="316806109" ref="homepage2"/>
-    <file name="u36367.png" crc="69900218" ref="homepage2"/>
-    <file name="u36367-r.png" crc="293193988" ref="homepage2"/>
-    <file name="u36367-a.png" crc="293193988" ref="homepage2"/>
-    <file name="u36373.png" crc="4027417443" ref="homepage2"/>
-    <file name="u36373-r.png" crc="187296679" ref="homepage2"/>
-    <file name="u36373-a.png" crc="187296679" ref="homepage2"/>
-    <file name="u36382.png" crc="33394321" ref="homepage2"/>
-    <file name="u36382-r.png" crc="4217473646" ref="homepage2"/>
-    <file name="u36382-a.png" crc="4217473646" ref="homepage2"/>
-    <file name="u34671-4.png" crc="3992410581" ref="homepage2"/>
+    <file name="u15544.png" crc="4012776310" ref="newspage10"/>
+    <file name="u15544-r.png" crc="475098218" ref="newspage10"/>
+    <file name="u15544-a.png" crc="475098218" ref="newspage10"/>
+    <file name="u15273-4-a.png" crc="75443498" ref="newspage10"/>
+    <file name="u15695.png" crc="214814253" ref="newspage10"/>
+    <file name="u15695-r.png" crc="295429183" ref="newspage10"/>
+    <file name="u15695-a.png" crc="295429183" ref="newspage10"/>
+    <file name="u15631.png" crc="214814253" ref="newspage10"/>
+    <file name="u15631-r.png" crc="295429183" ref="newspage10"/>
+    <file name="u15631-a.png" crc="295429183" ref="newspage10"/>
+    <file name="u15429.png" crc="214814253" ref="newspage10"/>
+    <file name="u15429-r.png" crc="295429183" ref="newspage10"/>
+    <file name="u15429-a.png" crc="295429183" ref="newspage10"/>
+    <file name="u15657-4.png" crc="3992410581" ref="newspage10"/>
+    <file name="u26879.png" crc="94129074" ref="newspage9"/>
+    <file name="u26879-r.png" crc="51753110" ref="newspage9"/>
+    <file name="u26879-a.png" crc="51753110" ref="newspage9"/>
+    <file name="u26886-4-a.png" crc="475098218" ref="newspage9"/>
+    <file name="u26897.png" crc="145286616" ref="newspage9"/>
+    <file name="u26897-r.png" crc="75443498" ref="newspage9"/>
+    <file name="u26897-a.png" crc="75443498" ref="newspage9"/>
+    <file name="u26902.png" crc="214814253" ref="newspage9"/>
+    <file name="u26902-r.png" crc="295429183" ref="newspage9"/>
+    <file name="u26902-a.png" crc="295429183" ref="newspage9"/>
+    <file name="u26910.png" crc="214814253" ref="newspage9"/>
+    <file name="u26910-r.png" crc="295429183" ref="newspage9"/>
+    <file name="u26910-a.png" crc="295429183" ref="newspage9"/>
+    <file name="u25407-4.png" crc="3992410581" ref="newspage9"/>
+    <file name="u27552.png" crc="410648679" ref="newspage8"/>
+    <file name="u27552-r.png" crc="3761878106" ref="newspage8"/>
+    <file name="u27552-a.png" crc="3761878106" ref="newspage8"/>
+    <file name="u27558-4-a.png" crc="51753110" ref="newspage8"/>
+    <file name="u27568.png" crc="4012776310" ref="newspage8"/>
+    <file name="u27568-r.png" crc="475098218" ref="newspage8"/>
+    <file name="u27568-a.png" crc="475098218" ref="newspage8"/>
+    <file name="u27574.png" crc="145286616" ref="newspage8"/>
+    <file name="u27574-r.png" crc="75443498" ref="newspage8"/>
+    <file name="u27574-a.png" crc="75443498" ref="newspage8"/>
+    <file name="u27583.png" crc="214814253" ref="newspage8"/>
+    <file name="u27583-r.png" crc="295429183" ref="newspage8"/>
+    <file name="u27583-a.png" crc="295429183" ref="newspage8"/>
+    <file name="u26755-4.png" crc="3992410581" ref="newspage8"/>
+    <file name="u37030.png" crc="33394321" ref="newspage6"/>
+    <file name="u37030-r.png" crc="4217473646" ref="newspage6"/>
+    <file name="u37030-a.png" crc="4217473646" ref="newspage6"/>
+    <file name="u37037-4-a.png" crc="459097807" ref="newspage6"/>
+    <file name="u37044.png" crc="410648679" ref="newspage6"/>
+    <file name="u37044-r.png" crc="3761878106" ref="newspage6"/>
+    <file name="u37044-a.png" crc="3761878106" ref="newspage6"/>
+    <file name="u37051.png" crc="94129074" ref="newspage6"/>
+    <file name="u37051-r.png" crc="51753110" ref="newspage6"/>
+    <file name="u37051-a.png" crc="51753110" ref="newspage6"/>
+    <file name="u37059.png" crc="4012776310" ref="newspage6"/>
+    <file name="u37059-r.png" crc="475098218" ref="newspage6"/>
+    <file name="u37059-a.png" crc="475098218" ref="newspage6"/>
+    <file name="u28616-4.png" crc="3992410581" ref="newspage6"/>
+    <file name="u37197.png" crc="381791655" ref="newspage7"/>
+    <file name="u37197-r.png" crc="459097807" ref="newspage7"/>
+    <file name="u37197-a.png" crc="459097807" ref="newspage7"/>
+    <file name="u37204-4-a.png" crc="3761878106" ref="newspage7"/>
+    <file name="u37214.png" crc="94129074" ref="newspage7"/>
+    <file name="u37214-r.png" crc="51753110" ref="newspage7"/>
+    <file name="u37214-a.png" crc="51753110" ref="newspage7"/>
+    <file name="u37219.png" crc="4012776310" ref="newspage7"/>
+    <file name="u37219-r.png" crc="475098218" ref="newspage7"/>
+    <file name="u37219-a.png" crc="475098218" ref="newspage7"/>
+    <file name="u37230.png" crc="145286616" ref="newspage7"/>
+    <file name="u37230-r.png" crc="75443498" ref="newspage7"/>
+    <file name="u37230-a.png" crc="75443498" ref="newspage7"/>
+    <file name="u29700-4.png" crc="3992410581" ref="newspage7"/>
+    <file name="u36519.png" crc="4052174153" ref="newspage3"/>
+    <file name="u36519-r.png" crc="316806109" ref="newspage3"/>
+    <file name="u36519-a.png" crc="316806109" ref="newspage3"/>
+    <file name="u36529-4-a.png" crc="293193988" ref="newspage3"/>
+    <file name="u36535.png" crc="4027417443" ref="newspage3"/>
+    <file name="u36535-r.png" crc="187296679" ref="newspage3"/>
+    <file name="u36535-a.png" crc="187296679" ref="newspage3"/>
+    <file name="u36543.png" crc="33394321" ref="newspage3"/>
+    <file name="u36543-r.png" crc="4217473646" ref="newspage3"/>
+    <file name="u36543-a.png" crc="4217473646" ref="newspage3"/>
+    <file name="u36554.png" crc="381791655" ref="newspage3"/>
+    <file name="u36554-r.png" crc="459097807" ref="newspage3"/>
+    <file name="u36554-a.png" crc="459097807" ref="newspage3"/>
+    <file name="u30982-4.png" crc="3992410581" ref="newspage3"/>
+    <file name="u36690.png" crc="69900218" ref="newspage4"/>
+    <file name="u36690-r.png" crc="293193988" ref="newspage4"/>
+    <file name="u36690-a.png" crc="293193988" ref="newspage4"/>
+    <file name="u36697-4-a.png" crc="187296679" ref="newspage4"/>
+    <file name="u36707.png" crc="33394321" ref="newspage4"/>
+    <file name="u36707-r.png" crc="4217473646" ref="newspage4"/>
+    <file name="u36707-a.png" crc="4217473646" ref="newspage4"/>
+    <file name="u36713.png" crc="381791655" ref="newspage4"/>
+    <file name="u36713-r.png" crc="459097807" ref="newspage4"/>
+    <file name="u36713-a.png" crc="459097807" ref="newspage4"/>
+    <file name="u36720.png" crc="410648679" ref="newspage4"/>
+    <file name="u36720-r.png" crc="3761878106" ref="newspage4"/>
+    <file name="u36720-a.png" crc="3761878106" ref="newspage4"/>
+    <file name="u32305-4.png" crc="3992410581" ref="newspage4"/>
+    <file name="u36861.png" crc="4027417443" ref="newspage5"/>
+    <file name="u36861-r.png" crc="187296679" ref="newspage5"/>
+    <file name="u36861-a.png" crc="187296679" ref="newspage5"/>
+    <file name="u36868-4-a.png" crc="4217473646" ref="newspage5"/>
+    <file name="u36874.png" crc="381791655" ref="newspage5"/>
+    <file name="u36874-r.png" crc="459097807" ref="newspage5"/>
+    <file name="u36874-a.png" crc="459097807" ref="newspage5"/>
+    <file name="u36881.png" crc="410648679" ref="newspage5"/>
+    <file name="u36881-r.png" crc="3761878106" ref="newspage5"/>
+    <file name="u36881-a.png" crc="3761878106" ref="newspage5"/>
+    <file name="u36890.png" crc="94129074" ref="newspage5"/>
+    <file name="u36890-r.png" crc="51753110" ref="newspage5"/>
+    <file name="u36890-a.png" crc="51753110" ref="newspage5"/>
+    <file name="u33396-4.png" crc="3992410581" ref="newspage5"/>
+    <file name="u36348.png" crc="361414219" ref="newspage2"/>
+    <file name="u36348-r.png" crc="355493379" ref="newspage2"/>
+    <file name="u36348-a.png" crc="355493379" ref="newspage2"/>
+    <file name="u36358-4-a.png" crc="316806109" ref="newspage2"/>
+    <file name="u36367.png" crc="69900218" ref="newspage2"/>
+    <file name="u36367-r.png" crc="293193988" ref="newspage2"/>
+    <file name="u36367-a.png" crc="293193988" ref="newspage2"/>
+    <file name="u36373.png" crc="4027417443" ref="newspage2"/>
+    <file name="u36373-r.png" crc="187296679" ref="newspage2"/>
+    <file name="u36373-a.png" crc="187296679" ref="newspage2"/>
+    <file name="u36382.png" crc="33394321" ref="newspage2"/>
+    <file name="u36382-r.png" crc="4217473646" ref="newspage2"/>
+    <file name="u36382-a.png" crc="4217473646" ref="newspage2"/>
+    <file name="u34671-4.png" crc="3992410581" ref="newspage2"/>
     <file name="untitled_by_elgama-d5hhapn-crop-u34827.jpg" crc="47024588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -211,19 +211,19 @@
     <file name="u34840-4.png" crc="203195007" ref="index"/>
     <file name="u35655-4.png" crc="3992410581" ref="index"/>
   </folder>
-  <file name="index.html" crc="449413692" seo="true" mt="1507747043742" redirect="true"/>
-  <file name="accounts.html" crc="307405560" seo="true" mt="1507746503373" redirect="true"/>
-  <file name="files.html" crc="249887158" seo="true" mt="1507746503373" redirect="true"/>
-  <file name="contact.html" crc="3980039850" seo="true" mt="1507752098636" redirect="true"/>
-  <file name="about-me.html" crc="4090386293" seo="true" mt="1507746503373" redirect="true"/>
-  <file name="support.html" crc="330543718" seo="true" mt="1507746503373" redirect="true"/>
-  <file name="homepage2.html" crc="383558961" seo="true" mt="1507747449818" redirect="true"/>
-  <file name="homepage7.html" crc="483825973" seo="true" mt="1507749330998" redirect="true"/>
-  <file name="homepage3.html" crc="3934163002" seo="true" mt="1507748239049" redirect="true"/>
-  <file name="homepage4.html" crc="488789639" seo="true" mt="1507747524298" redirect="true"/>
-  <file name="homepage6.html" crc="163641987" seo="true" mt="1507748858095" redirect="true"/>
-  <file name="homepage5.html" crc="34647348" seo="true" mt="1507748546274" redirect="true"/>
-  <file name="homepage8.html" crc="3949972254" seo="true" mt="1507749674549" redirect="true"/>
-  <file name="homepage9.html" crc="3851066485" seo="true" mt="1507751872868" redirect="true"/>
-  <file name="homepage10.html" crc="189383299" seo="true" mt="1507751941774" redirect="true"/>
+  <file name="index.html" crc="528921285" seo="true" mt="1507791953122" redirect="true"/>
+  <file name="accounts.html" crc="4285779845" seo="true" mt="1507793607199" redirect="true"/>
+  <file name="files.html" crc="3822413274" seo="true" mt="1507791424677" redirect="true"/>
+  <file name="contact.html" crc="119982125" seo="true" mt="1507793702109" redirect="true"/>
+  <file name="about-me.html" crc="3876055124" seo="true" mt="1507791424677" redirect="true"/>
+  <file name="support.html" crc="4064212406" seo="true" mt="1507791424677" redirect="true"/>
+  <file name="newspage10.html" crc="4290588439" seo="true" mt="1507791990553" redirect="true"/>
+  <file name="newspage9.html" crc="110391533" seo="true" mt="1507791995718" redirect="true"/>
+  <file name="newspage8.html" crc="3898263118" seo="true" mt="1507791998544" redirect="true"/>
+  <file name="newspage6.html" crc="60737569" seo="true" mt="1507791978632" redirect="true"/>
+  <file name="newspage7.html" crc="4075589093" seo="true" mt="1507791983705" redirect="true"/>
+  <file name="newspage3.html" crc="90402981" seo="true" mt="1507791963032" redirect="true"/>
+  <file name="newspage4.html" crc="10207728" seo="true" mt="1507791974858" redirect="true"/>
+  <file name="newspage5.html" crc="3995008972" seo="true" mt="1507791971061" redirect="true"/>
+  <file name="newspage2.html" crc="520744643" seo="true" mt="1507791957672" redirect="true"/>
 </manifest>

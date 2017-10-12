@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Неизвестный метод запроса сервера'
 	),
 	'email' => array(
-		'from' => 'painter@adobe.com',
-		'to' => 'painter@adobe.com'
+		'from' => 'goganihe@gmail.ru',
+		'to' => 'goganihe@gmail.ru'
 	),
 	'fields' => array(
 		'custom_U1746' => array(
