@@ -10,36 +10,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://goganihe.github.io/accounts.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://goganihe.github.io/files.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://goganihe.github.io/contact.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://goganihe.github.io/about-me.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://goganihe.github.io/support.html</loc>
-    <lastmod>2017-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://goganihe.github.io/newspage10.html</loc>
     <lastmod>2017-10-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -89,6 +59,18 @@
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage2.html</loc>
+    <lastmod>2017-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://goganihe.github.io/competition.html</loc>
+    <lastmod>2017-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://goganihe.github.io/contacts.html</loc>
     <lastmod>2017-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
