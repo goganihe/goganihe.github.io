@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1507929359738">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1508081198800">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-______.css" crc="4265456770" ref="index:newspage10:newspage5:newspage9:newspage2:newspage8:newspage6:newspage7:newspage4:newspage3:contacts:competition"/>
-    <file name="index.css" crc="47739289" ref="index"/>
+    <file name="index.css" crc="4223236927" ref="index"/>
     <file name="newspage10.css" crc="140342220" ref="newspage10"/>
     <file name="newspage5.css" crc="121815964" ref="newspage5"/>
     <file name="newspage9.css" crc="13304505" ref="newspage9"/>
@@ -24,6 +24,10 @@
     <file name="jquery.watch.js" crc="3844535323" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
     <file name="require.js" crc="4234670167" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
   </folder>
   <folder name="images">
     <file name="u1063-7.png" crc="4166933354" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
@@ -164,13 +168,7 @@
     <file name="u36382-r.png" crc="4217473646" ref="newspage2"/>
     <file name="u36382-a.png" crc="4217473646" ref="newspage2"/>
     <file name="u34671-4.png" crc="3992410581" ref="newspage2"/>
-    <file name="untitled_by_elgama-d5hhapn-crop-u34827.jpg" crc="47024588" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u34841.png" crc="4173976645" ref="index"/>
-    <file name="u34841-r.png" crc="522824681" ref="index"/>
     <file name="u36170-4-a.png" crc="355493379" ref="index"/>
-    <file name="u34831-4.png" crc="3933776005" ref="index"/>
     <file name="u36180.png" crc="4052174153" ref="index"/>
     <file name="u36180-r.png" crc="316806109" ref="index"/>
     <file name="u36180-a.png" crc="316806109" ref="index"/>
@@ -180,12 +178,9 @@
     <file name="u36192.png" crc="4027417443" ref="index"/>
     <file name="u36192-r.png" crc="187296679" ref="index"/>
     <file name="u36192-a.png" crc="187296679" ref="index"/>
-    <file name="u34839.png" crc="231420256" ref="index"/>
-    <file name="u34839-r.png" crc="71748046" ref="index"/>
     <file name="u36203.png" crc="33394321" ref="index"/>
     <file name="u36203-r.png" crc="4217473646" ref="index"/>
     <file name="u36203-a.png" crc="4217473646" ref="index"/>
-    <file name="u34840-4.png" crc="203195007" ref="index"/>
     <file name="u35655-4.png" crc="3992410581" ref="index"/>
     <file name="u37719.png" crc="3795221066" ref="competition:contacts:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:index"/>
     <file name="u37719-r.png" crc="279150861" ref="competition:contacts:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:index"/>
@@ -208,17 +203,30 @@
     <file name="u38433-4.png" crc="203195007" ref="competition"/>
     <file name="u38434.png" crc="4173976645" ref="competition"/>
     <file name="u38434-r.png" crc="522824681" ref="competition"/>
+    <file name="cactus-crop-u38502.jpg" crc="300133329" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u38504.jpg" crc="4124139096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u38500.jpg" crc="4028258840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u38515-4.png" crc="461704644" ref="index"/>
+    <file name="u38516-4.png" crc="306990279" ref="index"/>
+    <file name="u38514-4.png" crc="177733793" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="131127055" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage10.html" crc="3884872869" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage9.html" crc="3857680287" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage8.html" crc="3934077061" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage6.html" crc="429745353" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage7.html" crc="101608444" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage3.html" crc="4242683531" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage4.html" crc="168898852" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage5.html" crc="357036132" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="newspage2.html" crc="65585780" seo="true" mt="1507928908905" redirect="true"/>
-  <file name="competition.html" crc="214365073" seo="true" mt="1507928908905" redirect="true"/>
+  <file name="index.html" crc="4051193190" seo="true" mt="1508080287278" redirect="true"/>
+  <file name="newspage10.html" crc="3884872869" seo="true" mt="1508078960676" redirect="true"/>
+  <file name="newspage9.html" crc="3857680287" seo="true" mt="1508078960678" redirect="true"/>
+  <file name="newspage8.html" crc="3934077061" seo="true" mt="1508078960679" redirect="true"/>
+  <file name="newspage6.html" crc="429745353" seo="true" mt="1508078960680" redirect="true"/>
+  <file name="newspage7.html" crc="101608444" seo="true" mt="1508078960681" redirect="true"/>
+  <file name="newspage3.html" crc="4242683531" seo="true" mt="1508078960682" redirect="true"/>
+  <file name="newspage4.html" crc="168898852" seo="true" mt="1508078960685" redirect="true"/>
+  <file name="newspage5.html" crc="357036132" seo="true" mt="1508078960687" redirect="true"/>
+  <file name="newspage2.html" crc="65585780" seo="true" mt="1508078960688" redirect="true"/>
+  <file name="competition.html" crc="214365073" seo="true" mt="1508078960675" redirect="true"/>
   <file name="contacts.html" crc="366249258" seo="true" mt="1507928908905" redirect="true"/>
 </manifest>
