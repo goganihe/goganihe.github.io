@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1508081198800">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1508090125311">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-______.css" crc="4265456770" ref="index:newspage10:newspage5:newspage9:newspage2:newspage8:newspage6:newspage7:newspage4:newspage3:contacts:competition"/>
-    <file name="index.css" crc="4223236927" ref="index"/>
+    <file name="master_______-______.css" crc="458018445" ref="index:newspage10:newspage5:newspage9:newspage2:newspage8:newspage6:newspage7:newspage4:newspage3:competition"/>
+    <file name="index.css" crc="365958920" ref="index"/>
     <file name="newspage10.css" crc="140342220" ref="newspage10"/>
     <file name="newspage5.css" crc="121815964" ref="newspage5"/>
     <file name="newspage9.css" crc="13304505" ref="newspage9"/>
@@ -12,36 +12,36 @@
     <file name="newspage7.css" crc="214153246" ref="newspage7"/>
     <file name="newspage4.css" crc="224052908" ref="newspage4"/>
     <file name="newspage3.css" crc="322354072" ref="newspage3"/>
-    <file name="contacts.css" crc="480850969" ref="contacts"/>
     <file name="competition.css" crc="4157751784" ref="competition"/>
+    <file name="addnews.css" crc="3903701308" ref="addnews"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="museutils.js" crc="4232573551" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="whatinput.js" crc="86476730" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="require.js" crc="4234670167" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:addnews"/>
+    <file name="museutils.js" crc="4232573551" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:addnews"/>
+    <file name="whatinput.js" crc="86476730" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:addnews"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:addnews"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:addnews"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:addnews"/>
+    <file name="require.js" crc="4234670167" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:addnews"/>
     <file name="webpro.js" crc="3770351119" ref="index"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
     <file name="touchswipe.js" crc="3912873526" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u1063-7.png" crc="4166933354" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="blank.gif" crc="4208392903" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1047.png" crc="4069576057" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1047-r.png" crc="363133327" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1047-a.png" crc="3931870523" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1060.png" crc="4249276958" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1060-r.png" crc="3997050153" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1060-a.png" crc="151593522" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1521.png" crc="517945612" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1521-r.png" crc="334146796" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="u1521-a.png" crc="92523392" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:contacts"/>
-    <file name="favicon.ico" crc="310882137" ref="competition"/>
+    <file name="u1063-7.png" crc="4166933354" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="blank.gif" crc="4208392903" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1047.png" crc="4069576057" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1047-r.png" crc="363133327" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1047-a.png" crc="3931870523" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1060.png" crc="4249276958" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1060-r.png" crc="3997050153" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1060-a.png" crc="151593522" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1521.png" crc="517945612" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1521-r.png" crc="334146796" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="u1521-a.png" crc="92523392" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
+    <file name="favicon.ico" crc="310882137" ref="competition:index"/>
     <file name="u15544.png" crc="4012776310" ref="newspage10"/>
     <file name="u15544-r.png" crc="475098218" ref="newspage10"/>
     <file name="u15544-a.png" crc="475098218" ref="newspage10"/>
@@ -182,9 +182,9 @@
     <file name="u36203-r.png" crc="4217473646" ref="index"/>
     <file name="u36203-a.png" crc="4217473646" ref="index"/>
     <file name="u35655-4.png" crc="3992410581" ref="index"/>
-    <file name="u37719.png" crc="3795221066" ref="competition:contacts:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:index"/>
-    <file name="u37719-r.png" crc="279150861" ref="competition:contacts:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:index"/>
-    <file name="u37719-a.png" crc="445710475" ref="competition:contacts:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:index"/>
+    <file name="u37719.png" crc="3795221066" ref="competition:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:index"/>
+    <file name="u37719-r.png" crc="279150861" ref="competition:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:index"/>
+    <file name="u37719-a.png" crc="445710475" ref="competition:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:index"/>
     <file name="untitled_by_elgama-d5hhapn-crop-u35817.jpg" crc="47024588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -216,8 +216,10 @@
     <file name="u38516-4.png" crc="306990279" ref="index"/>
     <file name="u38514-4.png" crc="177733793" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u38864_states.png" crc="3817869180" ref="index"/>
+    <file name="u38864_states-r.png" crc="420436925" ref="index"/>
   </folder>
-  <file name="index.html" crc="4051193190" seo="true" mt="1508080287278" redirect="true"/>
+  <file name="index.html" crc="100725479" seo="true" mt="1508090062856" redirect="true"/>
   <file name="newspage10.html" crc="3884872869" seo="true" mt="1508078960676" redirect="true"/>
   <file name="newspage9.html" crc="3857680287" seo="true" mt="1508078960678" redirect="true"/>
   <file name="newspage8.html" crc="3934077061" seo="true" mt="1508078960679" redirect="true"/>
@@ -228,5 +230,5 @@
   <file name="newspage5.html" crc="357036132" seo="true" mt="1508078960687" redirect="true"/>
   <file name="newspage2.html" crc="65585780" seo="true" mt="1508078960688" redirect="true"/>
   <file name="competition.html" crc="214365073" seo="true" mt="1508078960675" redirect="true"/>
-  <file name="contacts.html" crc="366249258" seo="true" mt="1507928908905" redirect="true"/>
+  <file name="addnews.html" crc="312039520" seo="true" mt="1508086262825" redirect="true"/>
 </manifest>
