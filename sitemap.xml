@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://goganihe.github.io/index.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,71 +20,71 @@
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage10.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage9.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage8.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage6.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage7.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage3.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage4.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage5.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://goganihe.github.io/newspage2.html</loc>
-    <lastmod>2017-10-15</lastmod>
+    <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://goganihe.github.io/competition.html</loc>
-    <lastmod>2017-10-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://goganihe.github.io/images/untitled_by_elgama-d5hhapn-crop-u38430.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://goganihe.github.io/addnews.html</loc>
     <lastmod>2017-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://goganihe.github.io/event.html</loc>
+    <lastmod>2017-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://goganihe.github.io/images/untitled_by_elgama-d5hhapn-crop-u38430.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
