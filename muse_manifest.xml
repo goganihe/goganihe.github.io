@@ -1,19 +1,19 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1508090125311">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1508101056631">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-______.css" crc="458018445" ref="index:newspage10:newspage5:newspage9:newspage2:newspage8:newspage6:newspage7:newspage4:newspage3:competition"/>
-    <file name="index.css" crc="365958920" ref="index"/>
-    <file name="newspage10.css" crc="140342220" ref="newspage10"/>
-    <file name="newspage5.css" crc="121815964" ref="newspage5"/>
-    <file name="newspage9.css" crc="13304505" ref="newspage9"/>
-    <file name="newspage2.css" crc="535076877" ref="newspage2"/>
-    <file name="newspage8.css" crc="3974293040" ref="newspage8"/>
-    <file name="newspage6.css" crc="338014409" ref="newspage6"/>
-    <file name="newspage7.css" crc="214153246" ref="newspage7"/>
-    <file name="newspage4.css" crc="224052908" ref="newspage4"/>
-    <file name="newspage3.css" crc="322354072" ref="newspage3"/>
-    <file name="competition.css" crc="4157751784" ref="competition"/>
-    <file name="addnews.css" crc="3903701308" ref="addnews"/>
+    <file name="master_______-______.css" crc="4265456770" ref="index:newspage10:newspage5:newspage9:newspage2:newspage8:newspage6:newspage7:newspage4:newspage3:competition"/>
+    <file name="index.css" crc="244891556" ref="index"/>
+    <file name="newspage10.css" crc="3870406371" ref="newspage10"/>
+    <file name="newspage5.css" crc="125387327" ref="newspage5"/>
+    <file name="newspage9.css" crc="89799407" ref="newspage9"/>
+    <file name="newspage2.css" crc="162893125" ref="newspage2"/>
+    <file name="newspage8.css" crc="4195307935" ref="newspage8"/>
+    <file name="newspage6.css" crc="155685613" ref="newspage6"/>
+    <file name="newspage7.css" crc="84879450" ref="newspage7"/>
+    <file name="newspage4.css" crc="382241921" ref="newspage4"/>
+    <file name="newspage3.css" crc="3788758139" ref="newspage3"/>
+    <file name="competition.css" crc="3758937052" ref="competition"/>
+    <file name="addnews.css" crc="4285747976" ref="addnews"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition:addnews"/>
@@ -41,7 +41,7 @@
     <file name="u1521.png" crc="517945612" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
     <file name="u1521-r.png" crc="334146796" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
     <file name="u1521-a.png" crc="92523392" ref="index:newspage10:newspage9:newspage8:newspage6:newspage7:newspage3:newspage4:newspage5:newspage2:competition"/>
-    <file name="favicon.ico" crc="310882137" ref="competition:index"/>
+    <file name="favicon.ico" crc="310882137" ref="competition"/>
     <file name="u15544.png" crc="4012776310" ref="newspage10"/>
     <file name="u15544-r.png" crc="475098218" ref="newspage10"/>
     <file name="u15544-a.png" crc="475098218" ref="newspage10"/>
@@ -219,16 +219,16 @@
     <file name="u38864_states.png" crc="3817869180" ref="index"/>
     <file name="u38864_states-r.png" crc="420436925" ref="index"/>
   </folder>
-  <file name="index.html" crc="100725479" seo="true" mt="1508090062856" redirect="true"/>
-  <file name="newspage10.html" crc="3884872869" seo="true" mt="1508078960676" redirect="true"/>
-  <file name="newspage9.html" crc="3857680287" seo="true" mt="1508078960678" redirect="true"/>
-  <file name="newspage8.html" crc="3934077061" seo="true" mt="1508078960679" redirect="true"/>
-  <file name="newspage6.html" crc="429745353" seo="true" mt="1508078960680" redirect="true"/>
-  <file name="newspage7.html" crc="101608444" seo="true" mt="1508078960681" redirect="true"/>
-  <file name="newspage3.html" crc="4242683531" seo="true" mt="1508078960682" redirect="true"/>
-  <file name="newspage4.html" crc="168898852" seo="true" mt="1508078960685" redirect="true"/>
-  <file name="newspage5.html" crc="357036132" seo="true" mt="1508078960687" redirect="true"/>
-  <file name="newspage2.html" crc="65585780" seo="true" mt="1508078960688" redirect="true"/>
-  <file name="competition.html" crc="214365073" seo="true" mt="1508078960675" redirect="true"/>
-  <file name="addnews.html" crc="312039520" seo="true" mt="1508086262825" redirect="true"/>
+  <file name="index.html" crc="4160428659" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage10.html" crc="3987246692" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage9.html" crc="33713095" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage8.html" crc="4130009405" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage6.html" crc="379775853" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage7.html" crc="4029124267" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage3.html" crc="422694628" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage4.html" crc="495100269" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage5.html" crc="4271228850" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="newspage2.html" crc="387577321" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="competition.html" crc="4114090979" seo="true" mt="1508100944296" redirect="true"/>
+  <file name="addnews.html" crc="4105528788" seo="true" mt="1508100944296" redirect="true"/>
 </manifest>
