@@ -1,54 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://3dpm.ru/index.html</loc>
+    <loc>https://goganihe.github.io/index.html</loc>
     <lastmod>2021-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://3dpm.ru/images/cactus-crop-u48469.jpg</image:loc>
+      <image:loc>https://goganihe.github.io/images/image_2021-01-09_03-44-19.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://3dpm.ru/images/road-crop-u48473.jpg</image:loc>
+      <image:loc>https://goganihe.github.io/images/eaglefinal_preview_featured-crop-u38502.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://3dpm.ru/images/image_2021-01-09_03-44-19.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://3dpm.ru/images/cactus-crop-u484692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://3dpm.ru/images/road-crop-u484732.jpg</image:loc>
+      <image:loc>https://goganihe.github.io/images/image_2021-01-09_03-53-10-crop-u38504.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://3dpm.ru/3d.html</loc>
+    <loc>https://goganihe.github.io/gallery.html</loc>
+    <lastmod>2021-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://goganihe.github.io/images/untitled_by_elgama-d5hhapn-crop-u38430.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://goganihe.github.io/contacts.html</loc>
     <lastmod>2021-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://3dpm.ru/gallery.html</loc>
-    <lastmod>2021-01-14</lastmod>
+    <loc>https://goganihe.github.io/addnews.html</loc>
+    <lastmod>2017-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://3dpm.ru/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%201160x542-crop-u47362.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://3dpm.ru/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%201160x542-crop-u473622.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://3dpm.ru/contacts.html</loc>
-    <lastmod>2021-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://3dpm.ru/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20920x801.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://3dpm.ru/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%201280x1280.jpg</image:loc>
-    </image:image>
   </url>
 </urlset>

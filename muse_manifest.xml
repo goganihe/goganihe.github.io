@@ -1,106 +1,105 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://3dpm.ru" resolutions="1x" timestamp="1610585085019">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1610590064667">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-______.css" crc="3855846986" ref="index:3d:contacts:gallery"/>
-    <file name="nomq_preview_master_______-______.css" crc="3824530138" ref="index:3d:contacts:gallery"/>
-    <file name="index.css" crc="4072497962" ref="index"/>
-    <file name="nomq_index.css" crc="3836408616" ref="index"/>
-    <file name="3d.css" crc="301032804" ref="3d"/>
-    <file name="nomq_3d.css" crc="346854179" ref="3d"/>
-    <file name="contacts.css" crc="3936952602" ref="contacts"/>
-    <file name="nomq_contacts.css" crc="3912764134" ref="contacts"/>
-    <file name="gallery.css" crc="353617847" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="493909462" ref="gallery"/>
+    <file name="master_______-______.css" crc="529386321" ref="index:contacts:gallery"/>
+    <file name="index.css" crc="4281487274" ref="index"/>
+    <file name="contacts.css" crc="345980181" ref="contacts"/>
+    <file name="gallery.css" crc="337373058" ref="gallery"/>
+    <file name="addnews.css" crc="4285747976" ref="addnews"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:3d:gallery:contacts"/>
-    <file name="museutils.js" crc="3803043152" ref="index:3d:gallery:contacts"/>
-    <file name="whatinput.js" crc="86476730" ref="index:3d:gallery:contacts"/>
-    <file name="museconfig.js" crc="380897831" ref="index:3d:gallery:contacts"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:3d:gallery:contacts"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:3d:gallery:contacts"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:3d:gallery:contacts"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:3d:gallery:contacts"/>
-    <file name="require.js" crc="4157109226" ref="index:3d:gallery:contacts"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:contacts:addnews"/>
+    <file name="museutils.js" crc="3803043152" ref="index:gallery:contacts:addnews"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gallery:contacts:addnews"/>
+    <file name="museconfig.js" crc="380897831" ref="index:gallery:contacts:addnews"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:gallery:contacts"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:gallery:contacts:addnews"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:contacts:addnews"/>
+    <file name="require.js" crc="4157109226" ref="index:gallery:contacts:addnews"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="310882137" ref="index:3d"/>
-    <file name="u35655-4.png" crc="399624970" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:3d:gallery:contacts"/>
-    <file name="u1047.png" crc="4090429928" ref="index:3d:gallery:contacts"/>
-    <file name="u1047-r.png" crc="3961220820" ref="index:3d:gallery:contacts"/>
-    <file name="u1047-a.png" crc="4090429928" ref="index:3d:gallery:contacts"/>
-    <file name="u39872.png" crc="3889547825" ref="index:3d:gallery:contacts"/>
-    <file name="u39872-r.png" crc="4143985572" ref="index:3d:gallery:contacts"/>
-    <file name="u39872-a.png" crc="3889547825" ref="index:3d:gallery:contacts"/>
-    <file name="u1060.png" crc="3854061557" ref="index:3d:gallery:contacts"/>
-    <file name="u1060-r.png" crc="446654346" ref="index:3d:gallery:contacts"/>
-    <file name="u1060-a.png" crc="3854061557" ref="index:3d:gallery:contacts"/>
-    <file name="u39211.png" crc="390668528" ref="index:3d:gallery:contacts"/>
-    <file name="u39211-r.png" crc="174932480" ref="index:3d:gallery:contacts"/>
-    <file name="u39211-a.png" crc="390668528" ref="index:3d:gallery:contacts"/>
-    <file name="u1063-4.png" crc="3882160576" ref="index:3d:gallery:contacts"/>
-    <file name="u39236-6.png" crc="3887158036" ref="index:3d:gallery:contacts"/>
-    <file name="u39239-4.png" crc="107812707" ref="index:3d:gallery:contacts"/>
-    <file name="u35655-42.png" crc="3933298384" ref="index"/>
-    <file name="cactus-crop-u48469.jpg" crc="300133329" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="road-crop-u48473.jpg" crc="4124139096" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="favicon.ico" crc="310882137" ref="gallery"/>
+    <file name="u35655-4.png" crc="3933298384" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:gallery:contacts"/>
+    <file name="u1047.png" crc="198010996" ref="index:gallery:contacts"/>
+    <file name="u1047-r.png" crc="4244051985" ref="index:gallery:contacts"/>
+    <file name="u1047-a.png" crc="334114129" ref="index:gallery:contacts"/>
+    <file name="u1060.png" crc="341781042" ref="index:gallery:contacts"/>
+    <file name="u1060-r.png" crc="444531456" ref="index:gallery:contacts"/>
+    <file name="u1060-a.png" crc="282890817" ref="index:gallery:contacts"/>
+    <file name="u39211.png" crc="4087395765" ref="index:gallery:contacts"/>
+    <file name="u39211-r.png" crc="187862083" ref="index:gallery:contacts"/>
+    <file name="u39211-a.png" crc="4239729737" ref="index:gallery:contacts"/>
+    <file name="u39239-4.png" crc="534707832" ref="contacts"/>
     <file name="image_2021-01-09_03-44-19.jpg" crc="4232569534" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="u48455-4.png" crc="4213829601" ref="index"/>
-    <file name="u48457-4.png" crc="10763079" ref="index"/>
-    <file name="u48456-4.png" crc="3770498823" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="cactus-crop-u484692.jpg" crc="300133329" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="road-crop-u484732.jpg" crc="4124139096" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u48455-42.png" crc="4213829601" ref="index"/>
-    <file name="u48457-42.png" crc="10763079" ref="index"/>
-    <file name="u48456-42.png" crc="3770498823" ref="index"/>
-    <file name="u47062-4.png" crc="3937561831" ref="gallery"/>
-    <file name="вставленное изображение 1160x542-crop-u47362.jpg" crc="3969484919" seo="true" ref="gallery">
-      <caption webpage="галерея" alt=""/>
+    <file name="u37719.png" crc="4057837416" ref="gallery:index:contacts"/>
+    <file name="u37719-r.png" crc="3936411878" ref="gallery:index:contacts"/>
+    <file name="u37719-a.png" crc="4214308391" ref="gallery:index:contacts"/>
+    <file name="u1521.png" crc="145284635" ref="gallery:index:contacts"/>
+    <file name="u1521-r.png" crc="484164113" ref="gallery:index:contacts"/>
+    <file name="u1521-a.png" crc="330121899" ref="gallery:index:contacts"/>
+    <file name="u39247-4.png" crc="116229440" ref="gallery:index:contacts"/>
+    <file name="u39250-6.png" crc="130563105" ref="gallery:index:contacts"/>
+    <file name="u39253-4.png" crc="368077745" ref="gallery:index:contacts"/>
+    <file name="u39286-4.png" crc="4227557873" ref="gallery"/>
+    <file name="u38425.png" crc="3967300494" ref="gallery"/>
+    <file name="u38425-r.png" crc="3777811593" ref="gallery"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u38430.jpg" crc="4141765436" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="u47775-4.png" crc="4032057562" ref="gallery"/>
-    <file name="u47874-4.png" crc="3890217080" ref="gallery"/>
-    <file name="u47062-42.png" crc="3937561831" ref="gallery"/>
-    <file name="вставленное изображение 1160x542-crop-u473622.jpg" crc="3969484919" seo="true" ref="gallery">
-      <caption webpage="галерея" alt=""/>
-      <caption webpage="gallery" alt=""/>
+    <file name="u38432-4.png" crc="221310515" ref="gallery"/>
+    <file name="u38433-4.png" crc="4139330446" ref="gallery"/>
+    <file name="u38434.png" crc="4007726404" ref="gallery"/>
+    <file name="u38434-r.png" crc="355228694" ref="gallery"/>
+    <file name="u39230_states.png" crc="386319653" ref="gallery"/>
+    <file name="u39230_states-r.png" crc="4245954757" ref="gallery"/>
+    <file name="eaglefinal_preview_featured-crop-u38502.jpg" crc="215813040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u47775-42.png" crc="4032057562" ref="gallery"/>
-    <file name="u47874-42.png" crc="3890217080" ref="gallery"/>
-    <file name="вставленное изображение 920x801.jpg" crc="3979528811" seo="true" ref="contacts">
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
+    <file name="image_2021-01-09_03-53-10-crop-u38504.jpg" crc="3916055863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="вставленное изображение 1280x1280.jpg" crc="233735495" seo="true" ref="contacts">
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-    </file>
-    <file name="u45852-4.png" crc="3936087326" ref="contacts"/>
-    <file name="u45852-42.png" crc="3936087326" ref="contacts"/>
+    <file name="u38515-4.png" crc="4213829601" ref="index"/>
+    <file name="u38516-4.png" crc="10763079" ref="index"/>
+    <file name="u38514-4.png" crc="3770498823" ref="index"/>
+    <file name="u38864_states.png" crc="386319653" ref="index"/>
+    <file name="u38864_states-r.png" crc="4245954757" ref="index"/>
+    <file name="u36170-4-a.png" crc="226493418" ref="index"/>
+    <file name="u36180.png" crc="3773099790" ref="index"/>
+    <file name="u36180-r.png" crc="4101855078" ref="index"/>
+    <file name="u36180-a.png" crc="4101855078" ref="index"/>
+    <file name="u36188.png" crc="4033790001" ref="index"/>
+    <file name="u36188-r.png" crc="137824854" ref="index"/>
+    <file name="u36188-a.png" crc="137824854" ref="index"/>
+    <file name="u36192.png" crc="4252401673" ref="index"/>
+    <file name="u36192-r.png" crc="191409688" ref="index"/>
+    <file name="u36192-a.png" crc="191409688" ref="index"/>
+    <file name="u36203.png" crc="35827978" ref="index"/>
+    <file name="u36203-r.png" crc="4201153683" ref="index"/>
+    <file name="u36203-a.png" crc="4201153683" ref="index"/>
+    <file name="u39083-4.png" crc="4283756679" ref="contacts"/>
+    <file name="u39185-4.png" crc="155163712" ref="contacts"/>
+    <file name="u39176.png" crc="464903047" ref="contacts"/>
+    <file name="u39176-r.png" crc="441129514" ref="contacts"/>
+    <file name="u39179.png" crc="4003169319" ref="contacts"/>
+    <file name="u39179-r.png" crc="425754536" ref="contacts"/>
+    <file name="u39233-4.png" crc="4264108762" ref="contacts"/>
+    <file name="u39265-4.png" crc="473371155" ref="contacts"/>
+    <file name="u39268.png" crc="324754347" ref="contacts"/>
+    <file name="u39268-r.png" crc="441129514" ref="contacts"/>
+    <file name="u39271.png" crc="4094767850" ref="contacts"/>
+    <file name="u39271-r.png" crc="441129514" ref="contacts"/>
+    <file name="u39274-4.png" crc="4180632695" ref="contacts"/>
   </folder>
-  <file name="index.html" crc="239403124" seo="true" mt="1610584895172" redirect="true"/>
-  <file name="3d.html" crc="366461987" seo="true" mt="1610585015922" redirect="true"/>
-  <file name="gallery.html" crc="114648336" seo="true" mt="1610585020707" redirect="true"/>
-  <file name="contacts.html" crc="252234706" seo="true" mt="1610585025396" redirect="true"/>
+  <file name="index.html" crc="273236750" seo="true" mt="1610589743151" redirect="true"/>
+  <file name="gallery.html" crc="398975224" seo="true" mt="1610589900995" redirect="true"/>
+  <file name="contacts.html" crc="316307629" seo="true" mt="1610589683325" redirect="true"/>
+  <file name="addnews.html" crc="4080612951" seo="true" mt="1508255312202" redirect="true"/>
 </manifest>
