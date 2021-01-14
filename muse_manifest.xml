@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://3dpm.ru" resolutions="1x" timestamp="1610584918045">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://3dpm.ru" resolutions="1x" timestamp="1610585085019">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-______.css" crc="3855846986" ref="index:3d:contacts:gallery"/>
@@ -28,7 +28,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="310882137" ref="index"/>
+    <file name="favicon.ico" crc="310882137" ref="index:3d"/>
     <file name="u35655-4.png" crc="399624970" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:3d:gallery:contacts"/>
     <file name="u1047.png" crc="4090429928" ref="index:3d:gallery:contacts"/>
@@ -43,9 +43,9 @@
     <file name="u39211.png" crc="390668528" ref="index:3d:gallery:contacts"/>
     <file name="u39211-r.png" crc="174932480" ref="index:3d:gallery:contacts"/>
     <file name="u39211-a.png" crc="390668528" ref="index:3d:gallery:contacts"/>
-    <file name="u1063-4.png" crc="171382441" ref="index:3d:gallery:contacts"/>
-    <file name="u39236-6.png" crc="3952601046" ref="index:3d:gallery:contacts"/>
-    <file name="u39239-4.png" crc="4225464407" ref="index:3d:gallery:contacts"/>
+    <file name="u1063-4.png" crc="3882160576" ref="index:3d:gallery:contacts"/>
+    <file name="u39236-6.png" crc="3887158036" ref="index:3d:gallery:contacts"/>
+    <file name="u39239-4.png" crc="107812707" ref="index:3d:gallery:contacts"/>
     <file name="u35655-42.png" crc="3933298384" ref="index"/>
     <file name="cactus-crop-u48469.jpg" crc="300133329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -100,7 +100,7 @@
     <file name="u45852-42.png" crc="3936087326" ref="contacts"/>
   </folder>
   <file name="index.html" crc="239403124" seo="true" mt="1610584895172" redirect="true"/>
-  <file name="3d.html" crc="23758321" seo="true" mt="1610584870537" redirect="true"/>
-  <file name="gallery.html" crc="186954906" seo="true" mt="1610584899176" redirect="true"/>
-  <file name="contacts.html" crc="34276307" seo="true" mt="1610584902332" redirect="true"/>
+  <file name="3d.html" crc="366461987" seo="true" mt="1610585015922" redirect="true"/>
+  <file name="gallery.html" crc="114648336" seo="true" mt="1610585020707" redirect="true"/>
+  <file name="contacts.html" crc="252234706" seo="true" mt="1610585025396" redirect="true"/>
 </manifest>
