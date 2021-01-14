@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://3dpm.ru" resolutions="1x" timestamp="1610584337917">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://3dpm.ru" resolutions="1x" timestamp="1610584608591">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-______.css" crc="3855846986" ref="index:3d:контакты:галерея"/>
@@ -71,7 +71,7 @@
     <file name="u48457-42.png" crc="10763079" ref="index"/>
     <file name="u48456-42.png" crc="3770498823" ref="index"/>
     <file name="u47062-4.png" crc="3937561831" ref="галерея"/>
-    <file name="вставленное изображение 1160x542-crop-u47362.jpg" crc="140410551" seo="true" ref="галерея">
+    <file name="вставленное изображение 1160x542-crop-u47362.jpg" crc="3969484919" seo="true" ref="галерея">
       <caption webpage="галерея" alt=""/>
     </file>
     <file name="u47775-4.png" crc="4032057562" ref="галерея"/>
@@ -93,8 +93,8 @@
     <file name="u45852-4.png" crc="3936087326" ref="контакты"/>
     <file name="u45852-42.png" crc="3936087326" ref="контакты"/>
   </folder>
-  <file name="index.html" crc="4144047171" seo="true" mt="1610557119343" redirect="true"/>
-  <file name="3d.html" crc="4171556693" seo="true" mt="1610557119343" redirect="true"/>
-  <file name="галерея.html" crc="419358004" seo="true" mt="1610557119343" redirect="true"/>
-  <file name="контакты.html" crc="3760318829" seo="true" mt="1610557119343" redirect="true"/>
+  <file name="index.html" crc="329260658" seo="true" mt="1610584580827" redirect="true"/>
+  <file name="3d.html" crc="3875415331" seo="true" mt="1610584580827" redirect="true"/>
+  <file name="галерея.html" crc="4078042908" seo="true" mt="1610584580827" redirect="true"/>
+  <file name="контакты.html" crc="4030723655" seo="true" mt="1610584580827" redirect="true"/>
 </manifest>
