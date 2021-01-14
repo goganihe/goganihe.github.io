@@ -1,51 +1,100 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://3dpm.ru" resolutions="1x" timestamp="1610545168537">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://3dpm.ru" resolutions="1x" timestamp="1610584337917">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-______.css" crc="3891350013" ref="без-имени-4:без-имени-2:index:без-имени-2-копия"/>
-    <file name="nomq_preview_master_______-______.css" crc="3824530138" ref="без-имени-4:без-имени-2:index:без-имени-2-копия"/>
-    <file name="___-_____-4.css" crc="389996610" ref="без-имени-4"/>
-    <file name="nomq____-_____-4.css" crc="4158805462" ref="без-имени-4"/>
-    <file name="___-_____-2.css" crc="389996610" ref="без-имени-2"/>
-    <file name="nomq____-_____-2.css" crc="4158805462" ref="без-имени-2"/>
-    <file name="index.css" crc="4132897679" ref="index"/>
-    <file name="nomq_index.css" crc="4204158158" ref="index"/>
-    <file name="___-_____-2-_____.css" crc="389996610" ref="без-имени-2-копия"/>
-    <file name="nomq____-_____-2-_____.css" crc="4158805462" ref="без-имени-2-копия"/>
+    <file name="master_______-______.css" crc="3855846986" ref="index:3d:контакты:галерея"/>
+    <file name="nomq_preview_master_______-______.css" crc="3824530138" ref="index:3d:контакты:галерея"/>
+    <file name="index.css" crc="4072497962" ref="index"/>
+    <file name="nomq_index.css" crc="3836408616" ref="index"/>
+    <file name="3d.css" crc="301032804" ref="3d"/>
+    <file name="nomq_3d.css" crc="346854179" ref="3d"/>
+    <file name="________.css" crc="3936952602" ref="контакты"/>
+    <file name="nomq_________.css" crc="3912764134" ref="контакты"/>
+    <file name="_______.css" crc="353617847" ref="галерея"/>
+    <file name="nomq________.css" crc="493909462" ref="галерея"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="museutils.js" crc="3803043152" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="whatinput.js" crc="86476730" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="museconfig.js" crc="380897831" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="require.js" crc="4157109226" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:3d:галерея:контакты"/>
+    <file name="museutils.js" crc="3803043152" ref="index:3d:галерея:контакты"/>
+    <file name="whatinput.js" crc="86476730" ref="index:3d:галерея:контакты"/>
+    <file name="museconfig.js" crc="380897831" ref="index:3d:галерея:контакты"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:3d:галерея:контакты"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:3d:галерея:контакты"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:3d:галерея:контакты"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:3d:галерея:контакты"/>
+    <file name="require.js" crc="4157109226" ref="index:3d:галерея:контакты"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="310882137" ref="index"/>
     <file name="u35655-4.png" crc="399624970" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u1047.png" crc="4090429928" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u1047-r.png" crc="3961220820" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u1047-a.png" crc="4090429928" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u39872.png" crc="3889547825" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u39872-r.png" crc="4143985572" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u39872-a.png" crc="3889547825" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u1060.png" crc="3854061557" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u1060-r.png" crc="446654346" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u1060-a.png" crc="3854061557" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u39211.png" crc="390668528" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u39211-r.png" crc="174932480" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u39211-a.png" crc="390668528" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u1063-4.png" crc="171382441" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u39236-6.png" crc="3952601046" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
-    <file name="u39239-4.png" crc="4225464407" ref="index:без-имени-2:без-имени-2-копия:без-имени-4"/>
+    <file name="blank.gif" crc="4208392903" ref="index:3d:галерея:контакты"/>
+    <file name="u1047.png" crc="4090429928" ref="index:3d:галерея:контакты"/>
+    <file name="u1047-r.png" crc="3961220820" ref="index:3d:галерея:контакты"/>
+    <file name="u1047-a.png" crc="4090429928" ref="index:3d:галерея:контакты"/>
+    <file name="u39872.png" crc="3889547825" ref="index:3d:галерея:контакты"/>
+    <file name="u39872-r.png" crc="4143985572" ref="index:3d:галерея:контакты"/>
+    <file name="u39872-a.png" crc="3889547825" ref="index:3d:галерея:контакты"/>
+    <file name="u1060.png" crc="3854061557" ref="index:3d:галерея:контакты"/>
+    <file name="u1060-r.png" crc="446654346" ref="index:3d:галерея:контакты"/>
+    <file name="u1060-a.png" crc="3854061557" ref="index:3d:галерея:контакты"/>
+    <file name="u39211.png" crc="390668528" ref="index:3d:галерея:контакты"/>
+    <file name="u39211-r.png" crc="174932480" ref="index:3d:галерея:контакты"/>
+    <file name="u39211-a.png" crc="390668528" ref="index:3d:галерея:контакты"/>
+    <file name="u1063-4.png" crc="171382441" ref="index:3d:галерея:контакты"/>
+    <file name="u39236-6.png" crc="3952601046" ref="index:3d:галерея:контакты"/>
+    <file name="u39239-4.png" crc="4225464407" ref="index:3d:галерея:контакты"/>
     <file name="u35655-42.png" crc="3933298384" ref="index"/>
+    <file name="cactus-crop-u48469.jpg" crc="300133329" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u48473.jpg" crc="4124139096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_2021-01-09_03-44-19.jpg" crc="4232569534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u48455-4.png" crc="4213829601" ref="index"/>
+    <file name="u48457-4.png" crc="10763079" ref="index"/>
+    <file name="u48456-4.png" crc="3770498823" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="cactus-crop-u484692.jpg" crc="300133329" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u484732.jpg" crc="4124139096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u48455-42.png" crc="4213829601" ref="index"/>
+    <file name="u48457-42.png" crc="10763079" ref="index"/>
+    <file name="u48456-42.png" crc="3770498823" ref="index"/>
+    <file name="u47062-4.png" crc="3937561831" ref="галерея"/>
+    <file name="вставленное изображение 1160x542-crop-u47362.jpg" crc="140410551" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="u47775-4.png" crc="4032057562" ref="галерея"/>
+    <file name="u47874-4.png" crc="3890217080" ref="галерея"/>
+    <file name="u47062-42.png" crc="3937561831" ref="галерея"/>
+    <file name="вставленное изображение 1160x542-crop-u473622.jpg" crc="3969484919" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="u47775-42.png" crc="4032057562" ref="галерея"/>
+    <file name="u47874-42.png" crc="3890217080" ref="галерея"/>
+    <file name="вставленное изображение 920x801.jpg" crc="3979528811" seo="true" ref="контакты">
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+    </file>
+    <file name="вставленное изображение 1280x1280.jpg" crc="233735495" seo="true" ref="контакты">
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="контакты" alt=""/>
+    </file>
+    <file name="u45852-4.png" crc="3936087326" ref="контакты"/>
+    <file name="u45852-42.png" crc="3936087326" ref="контакты"/>
   </folder>
-  <file name="index.html" crc="414979733" seo="true" mt="1610240806105" redirect="true"/>
-  <file name="без-имени-2.html" crc="516876776" seo="true" mt="1610240562285" redirect="true"/>
-  <file name="без-имени-2-копия.html" crc="4137705990" seo="true" mt="1610240562285" redirect="true"/>
-  <file name="без-имени-4.html" crc="4239713493" seo="true" mt="1610240562285" redirect="true"/>
+  <file name="index.html" crc="4144047171" seo="true" mt="1610557119343" redirect="true"/>
+  <file name="3d.html" crc="4171556693" seo="true" mt="1610557119343" redirect="true"/>
+  <file name="галерея.html" crc="419358004" seo="true" mt="1610557119343" redirect="true"/>
+  <file name="контакты.html" crc="3760318829" seo="true" mt="1610557119343" redirect="true"/>
 </manifest>
