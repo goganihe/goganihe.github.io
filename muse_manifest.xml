@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1610590759377">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1610591057450">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-______.css" crc="4215298289" ref="contacts:gallery:index"/>
-    <file name="contacts.css" crc="176057109" ref="contacts"/>
+    <file name="master_______-______.css" crc="4215298289" ref="index:contacts:gallery"/>
+    <file name="index.css" crc="4115503958" ref="index"/>
+    <file name="contacts.css" crc="463229091" ref="contacts"/>
+    <file name="gallery.css" crc="384014127" ref="gallery"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
-    <file name="gallery.css" crc="223477364" ref="gallery"/>
-    <file name="index.css" crc="337611984" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="gallery:index:addnews:contacts"/>
@@ -42,7 +42,8 @@
     <file name="u39247-4.png" crc="116229440" ref="gallery:index:contacts"/>
     <file name="u39250-6.png" crc="130563105" ref="gallery:index:contacts"/>
     <file name="u39253-4.png" crc="368077745" ref="gallery:index:contacts"/>
-    <file name="u39286-4.png" crc="4227557873" ref="gallery"/>
+    <file name="u39286_states.png" crc="3997817850" ref="gallery"/>
+    <file name="u39286_states-r.png" crc="4292012625" ref="gallery"/>
     <file name="u38425.png" crc="3967300494" ref="gallery"/>
     <file name="u38425-r.png" crc="3777811593" ref="gallery"/>
     <file name="untitled_by_elgama-d5hhapn-crop-u38430.jpg" crc="4141765436" seo="true" ref="gallery">
@@ -67,6 +68,24 @@
     <file name="u38516-4.png" crc="10763079" ref="index"/>
     <file name="u38514-4.png" crc="3770498823" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u39298.png" crc="3967300494" ref="index"/>
+    <file name="u39298-r.png" crc="3777811593" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u39302.jpg" crc="4141765436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u39304-4.png" crc="221310515" ref="index"/>
+    <file name="u39305-4.png" crc="4139330446" ref="index"/>
+    <file name="u39306.png" crc="4007726404" ref="index"/>
+    <file name="u39306-r.png" crc="355228694" ref="index"/>
+    <file name="u39390.png" crc="3967300494" ref="index"/>
+    <file name="u39390-r.png" crc="3777811593" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u39394.jpg" crc="4141765436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u39396-4.png" crc="221310515" ref="index"/>
+    <file name="u39397-4.png" crc="4139330446" ref="index"/>
+    <file name="u39398.png" crc="4007726404" ref="index"/>
+    <file name="u39398-r.png" crc="355228694" ref="index"/>
     <file name="u38864_states.png" crc="386319653" ref="index"/>
     <file name="u38864_states-r.png" crc="4245954757" ref="index"/>
     <file name="u36170-4-a.png" crc="226493418" ref="index"/>
@@ -97,27 +116,9 @@
     <file name="u39271.png" crc="4094767850" ref="contacts"/>
     <file name="u39271-r.png" crc="4226705525" ref="contacts"/>
     <file name="u39274-4.png" crc="4180632695" ref="contacts"/>
-    <file name="u39298.png" crc="3967300494" ref="index"/>
-    <file name="u39298-r.png" crc="3777811593" ref="index"/>
-    <file name="untitled_by_elgama-d5hhapn-crop-u39302.jpg" crc="4141765436" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u39304-4.png" crc="221310515" ref="index"/>
-    <file name="u39305-4.png" crc="4139330446" ref="index"/>
-    <file name="u39306.png" crc="4007726404" ref="index"/>
-    <file name="u39306-r.png" crc="355228694" ref="index"/>
-    <file name="u39390.png" crc="3967300494" ref="index"/>
-    <file name="u39390-r.png" crc="3777811593" ref="index"/>
-    <file name="untitled_by_elgama-d5hhapn-crop-u39394.jpg" crc="4141765436" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u39396-4.png" crc="221310515" ref="index"/>
-    <file name="u39397-4.png" crc="4139330446" ref="index"/>
-    <file name="u39398.png" crc="4007726404" ref="index"/>
-    <file name="u39398-r.png" crc="355228694" ref="index"/>
   </folder>
-  <file name="gallery.html" crc="375608822" seo="true" mt="1610590636282" redirect="true"/>
-  <file name="index.html" crc="4086780584" seo="true" mt="1610590713420" redirect="true"/>
+  <file name="gallery.html" crc="4181790683" seo="true" mt="1610591014877" redirect="true"/>
+  <file name="index.html" crc="3843855588" seo="true" mt="1610590713420" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1508255312202" redirect="true"/>
-  <file name="contacts.html" crc="3778587853" seo="true" mt="1610590636286" redirect="true"/>
+  <file name="contacts.html" crc="85259835" seo="true" mt="1610590942941" redirect="true"/>
 </manifest>
