@@ -1,37 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://goganihe.github.io/index.html</loc>
+    <loc>http://3dpm.ru/index.html</loc>
     <lastmod>2021-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://goganihe.github.io/images/eaglefinal_preview_featured-crop-u38502.jpg</image:loc>
+      <image:loc>http://3dpm.ru/images/eaglefinal_preview_featured-crop-u38502.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://goganihe.github.io/images/image_2021-01-09_03-53-10-crop-u38504.jpg</image:loc>
+      <image:loc>http://3dpm.ru/images/image_2021-01-09_03-53-10-crop-u38504.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://goganihe.github.io/images/image_2021-01-09_03-44-19.jpg</image:loc>
+      <image:loc>http://3dpm.ru/images/image_2021-01-09_03-44-19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://3dpm.ru/images/untitled_by_elgama-d5hhapn-crop-u39302.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://3dpm.ru/images/untitled_by_elgama-d5hhapn-crop-u39394.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://goganihe.github.io/addnews.html</loc>
+    <loc>http://3dpm.ru/addnews.html</loc>
     <lastmod>2017-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://goganihe.github.io/gallery.html</loc>
+    <loc>http://3dpm.ru/gallery.html</loc>
     <lastmod>2021-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://goganihe.github.io/images/untitled_by_elgama-d5hhapn-crop-u38430.jpg</image:loc>
+      <image:loc>http://3dpm.ru/images/untitled_by_elgama-d5hhapn-crop-u38430.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://goganihe.github.io/contacts.html</loc>
+    <loc>http://3dpm.ru/contacts.html</loc>
     <lastmod>2021-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

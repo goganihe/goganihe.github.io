@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://goganihe.github.io" resolutions="1x" timestamp="1610590447824">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1610590759377">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-______.css" crc="4215298289" ref="contacts:gallery:index"/>
-    <file name="contacts.css" crc="3936874446" ref="contacts"/>
+    <file name="contacts.css" crc="176057109" ref="contacts"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
-    <file name="gallery.css" crc="395648720" ref="gallery"/>
-    <file name="index.css" crc="3862345732" ref="index"/>
+    <file name="gallery.css" crc="223477364" ref="gallery"/>
+    <file name="index.css" crc="337611984" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="gallery:index:addnews:contacts"/>
@@ -93,13 +93,31 @@
     <file name="u39239-4.png" crc="534707832" ref="contacts"/>
     <file name="u39265-4.png" crc="473371155" ref="contacts"/>
     <file name="u39268.png" crc="324754347" ref="contacts"/>
-    <file name="u39268-r.png" crc="441129514" ref="contacts"/>
+    <file name="u39268-r.png" crc="4231036866" ref="contacts"/>
     <file name="u39271.png" crc="4094767850" ref="contacts"/>
-    <file name="u39271-r.png" crc="441129514" ref="contacts"/>
+    <file name="u39271-r.png" crc="4226705525" ref="contacts"/>
     <file name="u39274-4.png" crc="4180632695" ref="contacts"/>
+    <file name="u39298.png" crc="3967300494" ref="index"/>
+    <file name="u39298-r.png" crc="3777811593" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u39302.jpg" crc="4141765436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u39304-4.png" crc="221310515" ref="index"/>
+    <file name="u39305-4.png" crc="4139330446" ref="index"/>
+    <file name="u39306.png" crc="4007726404" ref="index"/>
+    <file name="u39306-r.png" crc="355228694" ref="index"/>
+    <file name="u39390.png" crc="3967300494" ref="index"/>
+    <file name="u39390-r.png" crc="3777811593" ref="index"/>
+    <file name="untitled_by_elgama-d5hhapn-crop-u39394.jpg" crc="4141765436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u39396-4.png" crc="221310515" ref="index"/>
+    <file name="u39397-4.png" crc="4139330446" ref="index"/>
+    <file name="u39398.png" crc="4007726404" ref="index"/>
+    <file name="u39398-r.png" crc="355228694" ref="index"/>
   </folder>
-  <file name="gallery.html" crc="182106457" seo="true" mt="1610590299104" redirect="true"/>
-  <file name="index.html" crc="4124185826" seo="true" mt="1610590299104" redirect="true"/>
+  <file name="gallery.html" crc="375608822" seo="true" mt="1610590636282" redirect="true"/>
+  <file name="index.html" crc="4086780584" seo="true" mt="1610590713420" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1508255312202" redirect="true"/>
-  <file name="contacts.html" crc="3972054063" seo="true" mt="1610590299104" redirect="true"/>
+  <file name="contacts.html" crc="3778587853" seo="true" mt="1610590636286" redirect="true"/>
 </manifest>
