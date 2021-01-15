@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1610671268493">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1610672875904">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-______.css" crc="325486333" ref="index:contacts:gallery"/>
-    <file name="index.css" crc="4209186879" ref="index"/>
-    <file name="contacts.css" crc="200501573" ref="contacts"/>
-    <file name="gallery.css" crc="3892233053" ref="gallery"/>
+    <file name="master_______-______.css" crc="140651097" ref="index:contacts:gallery"/>
+    <file name="index.css" crc="4257890866" ref="index"/>
+    <file name="contacts.css" crc="406513134" ref="contacts"/>
+    <file name="gallery.css" crc="309395688" ref="gallery"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
   </folder>
   <folder name="scripts">
@@ -42,8 +42,8 @@
     <file name="u39247-4.png" crc="116229440" ref="gallery:index:contacts"/>
     <file name="u39250-6.png" crc="130563105" ref="gallery:index:contacts"/>
     <file name="u39253-4.png" crc="202356479" ref="gallery:index:contacts"/>
-    <file name="u39286_states.png" crc="334693246" ref="gallery"/>
-    <file name="u39286_states-r.png" crc="4186481028" ref="gallery"/>
+    <file name="u39286_states.png" crc="3845429622" ref="gallery"/>
+    <file name="u39286_states-r.png" crc="307132591" ref="gallery"/>
     <file name="u38432-4.png" crc="221310515" ref="gallery"/>
     <file name="u38433-4.png" crc="4148584597" ref="gallery"/>
     <file name="u38434.png" crc="3873559289" ref="gallery"/>
@@ -94,7 +94,6 @@
     <file name="u36203-a.png" crc="4188109998" ref="index"/>
     <file name="u35655-4.png" crc="3933298384" ref="index"/>
     <file name="u39083-4.png" crc="4283756679" ref="contacts"/>
-    <file name="u39185-4.png" crc="155163712" ref="contacts"/>
     <file name="u39233-4.png" crc="4264108762" ref="contacts"/>
     <file name="u39239-4.png" crc="534707832" ref="contacts"/>
     <file name="u39265-4.png" crc="473371155" ref="contacts"/>
@@ -107,9 +106,11 @@
     <file name="u39176-3.png" crc="464903047" ref="contacts"/>
     <file name="u39179-3.png" crc="4003169319" ref="contacts"/>
     <file name="u39271-3.png" crc="4094767850" ref="contacts"/>
+    <file name="u39185_states.png" crc="155163712" ref="contacts"/>
+    <file name="u39185_states-r.png" crc="3998648358" ref="contacts"/>
   </folder>
-  <file name="gallery.html" crc="346807164" seo="true" mt="1610671253285" redirect="true"/>
-  <file name="index.html" crc="4093589954" seo="true" mt="1610670888329" redirect="true"/>
+  <file name="gallery.html" crc="148225193" seo="true" mt="1610672058921" redirect="true"/>
+  <file name="index.html" crc="4120501121" seo="true" mt="1610672021389" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1610667719897" redirect="true"/>
-  <file name="contacts.html" crc="336059795" seo="true" mt="1610671174171" redirect="true"/>
+  <file name="contacts.html" crc="3875492648" seo="true" mt="1610672770757" redirect="true"/>
 </manifest>
