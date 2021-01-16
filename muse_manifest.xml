@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1610820857876">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1610821044859">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-______.css" crc="3773148606" ref="contacts:gallery:news"/>
-    <file name="index.css" crc="4124389403" ref="index"/>
+    <file name="index.css" crc="3902691815" ref="index"/>
     <file name="contacts.css" crc="292691811" ref="contacts"/>
     <file name="gallery.css" crc="309395688" ref="gallery"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
@@ -15,7 +15,7 @@
     <file name="museconfig.js" crc="380897831" ref="gallery:index:addnews:contacts:news"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="gallery:contacts:news"/>
     <file name="jquery.watch.js" crc="99325471" ref="gallery:index:addnews:contacts:news"/>
-    <file name="html5shiv.js" crc="4241844378" ref="gallery:index:addnews:contacts:news"/>
+    <file name="html5shiv.js" crc="4241844378" ref="gallery:addnews:contacts:news"/>
     <file name="require.js" crc="4157109226" ref="gallery:index:addnews:contacts:news"/>
     <file name="webpro.js" crc="242022427" ref="news"/>
     <file name="musewpslideshow.js" crc="457073769" ref="news"/>
@@ -23,7 +23,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="news"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="310882137" ref="gallery"/>
+    <file name="favicon.ico" crc="310882137" ref="gallery:index"/>
     <file name="blank.gif" crc="4208392903" ref="gallery:contacts:news"/>
     <file name="u1047.png" crc="3974045182" ref="gallery:contacts:news"/>
     <file name="u1047-r.png" crc="4241377526" ref="gallery:contacts:news"/>
@@ -119,7 +119,7 @@
     </file>
   </folder>
   <file name="gallery.html" crc="77345280" seo="true" mt="1610820435608" redirect="true"/>
-  <file name="index.html" crc="370708843" seo="true" mt="1610820842852" redirect="true"/>
+  <file name="index.html" crc="4009039890" seo="true" mt="1610821033590" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1610667719897" redirect="true"/>
   <file name="contacts.html" crc="97484107" seo="true" mt="1610820435608" redirect="true"/>
   <file name="news.html" crc="4031065516" seo="true" mt="1610820435609" redirect="true"/>
