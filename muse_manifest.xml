@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1615149630005">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1615158820249">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-______.css" crc="3981835437" ref="gallery:news:index:без-имени-5"/>
-    <file name="index.css" crc="534547425" ref="index"/>
+    <file name="index.css" crc="73853381" ref="index"/>
     <file name="gallery.css" crc="4046053713" ref="gallery"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
     <file name="news.css" crc="4277117830" ref="news"/>
@@ -23,7 +23,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="news"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="310882137" ref="gallery"/>
+    <file name="favicon.ico" crc="310882137" ref="gallery:index"/>
     <file name="blank.gif" crc="4208392903" ref="gallery:news:index:без-имени-5"/>
     <file name="u1047.png" crc="3974045182" ref="gallery:news:index:без-имени-5"/>
     <file name="u1047-r.png" crc="4241377526" ref="gallery:news:index:без-имени-5"/>
@@ -79,9 +79,10 @@
     <file name="вставленное изображение 640x860.jpg" crc="482130639" seo="true" ref="без-имени-5">
       <caption webpage="без-имени-5" alt=""/>
     </file>
+    <file name="u39937-4.png" crc="4221230739" ref="index"/>
   </folder>
   <file name="gallery.html" crc="57921258" seo="true" mt="1615149324323" redirect="true"/>
-  <file name="index.html" crc="4004393547" seo="true" mt="1615149324323" redirect="true"/>
+  <file name="index.html" crc="3845258320" seo="true" mt="1615158782522" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1610667719897" redirect="true"/>
   <file name="news.html" crc="302041805" seo="true" mt="1615149324323" redirect="true"/>
   <file name="без-имени-5.html" crc="484586516" seo="true" mt="1615149544249" redirect="true"/>
