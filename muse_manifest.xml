@@ -1,42 +1,42 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1615735564627">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1621758372162">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-______.css" crc="3981835437" ref="gallery:news:index:без-имени-5"/>
-    <file name="index.css" crc="145334597" ref="index"/>
-    <file name="gallery.css" crc="4046053713" ref="gallery"/>
+    <file name="master_______-______.css" crc="247378982" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="index.css" crc="4052527552" ref="index"/>
+    <file name="gallery.css" crc="41620421" ref="gallery"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
-    <file name="news.css" crc="4277117830" ref="news"/>
-    <file name="___-_____-5.css" crc="409021655" ref="без-имени-5"/>
+    <file name="news.css" crc="390622151" ref="news"/>
+    <file name="___-_____-5.css" crc="458519267" ref="без-имени-5"/>
+    <file name="contacts-_____.css" crc="4163022367" ref="contacts-копия"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="gallery:index:addnews:news:без-имени-5"/>
-    <file name="museutils.js" crc="3803043152" ref="gallery:index:addnews:news:без-имени-5"/>
-    <file name="whatinput.js" crc="86476730" ref="gallery:index:addnews:news:без-имени-5"/>
-    <file name="museconfig.js" crc="380897831" ref="gallery:index:addnews:news:без-имени-5"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="gallery:news:index:без-имени-5"/>
-    <file name="jquery.watch.js" crc="99325471" ref="gallery:index:addnews:news:без-имени-5"/>
-    <file name="html5shiv.js" crc="4241844378" ref="gallery:addnews:news:index:без-имени-5"/>
-    <file name="require.js" crc="4157109226" ref="gallery:index:addnews:news:без-имени-5"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="gallery:index:addnews:news:без-имени-5:contacts-копия"/>
+    <file name="museutils.js" crc="3803043152" ref="gallery:index:addnews:news:без-имени-5:contacts-копия"/>
+    <file name="whatinput.js" crc="86476730" ref="gallery:index:addnews:news:без-имени-5:contacts-копия"/>
+    <file name="museconfig.js" crc="380897831" ref="gallery:index:addnews:news:без-имени-5:contacts-копия"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="jquery.watch.js" crc="99325471" ref="gallery:index:addnews:news:без-имени-5:contacts-копия"/>
+    <file name="html5shiv.js" crc="4241844378" ref="gallery:addnews:news:index:без-имени-5:contacts-копия"/>
+    <file name="require.js" crc="4157109226" ref="gallery:index:addnews:news:без-имени-5:contacts-копия"/>
     <file name="webpro.js" crc="242022427" ref="news"/>
     <file name="musewpslideshow.js" crc="457073769" ref="news"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="news"/>
     <file name="touchswipe.js" crc="4066113679" ref="news"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3838252474" ref="gallery:index"/>
-    <file name="blank.gif" crc="4208392903" ref="gallery:news:index:без-имени-5"/>
-    <file name="u1047.png" crc="3974045182" ref="gallery:news:index:без-имени-5"/>
-    <file name="u1047-r.png" crc="4241377526" ref="gallery:news:index:без-имени-5"/>
-    <file name="u1047-a.png" crc="419764504" ref="gallery:news:index:без-имени-5"/>
-    <file name="u1060.png" crc="4217346909" ref="gallery:news:index:без-имени-5"/>
-    <file name="u1060-r.png" crc="59733261" ref="gallery:news:index:без-имени-5"/>
-    <file name="u1060-a.png" crc="285188805" ref="gallery:news:index:без-имени-5"/>
-    <file name="u39211.png" crc="4257369134" ref="gallery:news:index:без-имени-5"/>
-    <file name="u39211-r.png" crc="3987860149" ref="gallery:news:index:без-имени-5"/>
-    <file name="u39211-a.png" crc="101900245" ref="gallery:news:index:без-имени-5"/>
-    <file name="u39247-4.png" crc="116229440" ref="gallery:news:index:без-имени-5"/>
-    <file name="u39250-6.png" crc="130563105" ref="gallery:news:index:без-имени-5"/>
-    <file name="u39253-4.png" crc="267931284" ref="gallery:news:index:без-имени-5"/>
+    <file name="favicon.ico" crc="3838252474" ref="gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u1047.png" crc="3974045182" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u1047-r.png" crc="4241377526" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u1047-a.png" crc="419764504" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u1060.png" crc="4217346909" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u1060-r.png" crc="59733261" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u1060-a.png" crc="285188805" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u39211.png" crc="4257369134" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u39211-r.png" crc="3987860149" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u39211-a.png" crc="101900245" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u39247-4.png" crc="116229440" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="u39250-6.png" crc="130563105" ref="gallery:news:index:без-имени-5:contacts-копия"/>
     <file name="u39286_states.png" crc="3845429622" ref="gallery"/>
     <file name="u39286_states-r.png" crc="307132591" ref="gallery"/>
     <file name="u38432-4.png" crc="221310515" ref="gallery"/>
@@ -79,14 +79,21 @@
     <file name="вставленное изображение 640x860.jpg" crc="482130639" seo="true" ref="без-имени-5">
       <caption webpage="без-имени-5" alt=""/>
     </file>
-    <file name="u39937-4.png" crc="4221230739" ref="index"/>
-    <file name="вставленное изображение 998x463.jpg" crc="3843319811" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="img_20210203_2027233-crop-u40121.jpg" crc="4007867039" seo="true" ref="contacts-копия">
+      <caption webpage="contacts-копия" alt=""/>
     </file>
+    <file name="u40128.png" crc="3981788449" ref="contacts-копия"/>
+    <file name="u40128-r.png" crc="4128552952" ref="contacts-копия"/>
+    <file name="img_20210509_202756.jpg" crc="380991048" seo="true" ref="contacts-копия">
+      <caption webpage="contacts-копия" alt=""/>
+    </file>
+    <file name="u40053.png" crc="69694330" ref="contacts-копия"/>
+    <file name="u40053-r.png" crc="85440682" ref="contacts-копия"/>
   </folder>
-  <file name="gallery.html" crc="57921258" seo="true" mt="1615149324323" redirect="true"/>
-  <file name="index.html" crc="450655064" seo="true" mt="1615735004752" redirect="true"/>
+  <file name="gallery.html" crc="202669354" seo="true" mt="1621758197073" redirect="true"/>
+  <file name="index.html" crc="4047700412" seo="true" mt="1621758197073" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1610667719897" redirect="true"/>
-  <file name="news.html" crc="302041805" seo="true" mt="1615149324323" redirect="true"/>
-  <file name="без-имени-5.html" crc="484586516" seo="true" mt="1615149544249" redirect="true"/>
+  <file name="news.html" crc="3793337585" seo="true" mt="1621758197073" redirect="true"/>
+  <file name="без-имени-5.html" crc="327344719" seo="true" mt="1621758197073" redirect="true"/>
+  <file name="contacts-копия.html" crc="4091152025" seo="true" mt="1621758197073" redirect="true"/>
 </manifest>
