@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1621758372162">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1622567396240">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-______.css" crc="247378982" ref="gallery:news:index:без-имени-5:contacts-копия"/>
-    <file name="index.css" crc="4052527552" ref="index"/>
-    <file name="gallery.css" crc="41620421" ref="gallery"/>
+    <file name="master_______-______.css" crc="245567060" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="index.css" crc="3880447541" ref="index"/>
+    <file name="gallery.css" crc="242520364" ref="gallery"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
-    <file name="news.css" crc="390622151" ref="news"/>
-    <file name="___-_____-5.css" crc="458519267" ref="без-имени-5"/>
-    <file name="contacts-_____.css" crc="4163022367" ref="contacts-копия"/>
+    <file name="news.css" crc="4134528015" ref="news"/>
+    <file name="___-_____-5.css" crc="3848012542" ref="без-имени-5"/>
+    <file name="contacts-_____.css" crc="4268991045" ref="contacts-копия"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="gallery:index:addnews:news:без-имени-5:contacts-копия"/>
@@ -61,8 +61,8 @@
     <file name="image_2021-01-11_04-10-09-crop-u38430.jpg" crc="91848361" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="u39185_states.png" crc="3783555279" ref="index"/>
-    <file name="u39185_states-r.png" crc="4116206364" ref="index"/>
+    <file name="u39185_states.png" crc="3834224912" ref="index"/>
+    <file name="u39185_states-r.png" crc="3839991760" ref="index"/>
     <file name="без и12мени-1.jpg" crc="367640357" seo="true" ref="news">
       <caption webpage="news" alt=""/>
     </file>
@@ -79,7 +79,7 @@
     <file name="вставленное изображение 640x860.jpg" crc="482130639" seo="true" ref="без-имени-5">
       <caption webpage="без-имени-5" alt=""/>
     </file>
-    <file name="img_20210203_2027233-crop-u40121.jpg" crc="4007867039" seo="true" ref="contacts-копия">
+    <file name="img_20210203_2027233-crop-u40121.jpg" crc="3848585823" seo="true" ref="contacts-копия">
       <caption webpage="contacts-копия" alt=""/>
     </file>
     <file name="u40128.png" crc="3981788449" ref="contacts-копия"/>
@@ -90,10 +90,10 @@
     <file name="u40053.png" crc="69694330" ref="contacts-копия"/>
     <file name="u40053-r.png" crc="85440682" ref="contacts-копия"/>
   </folder>
-  <file name="gallery.html" crc="202669354" seo="true" mt="1621758197073" redirect="true"/>
-  <file name="index.html" crc="4047700412" seo="true" mt="1621758197073" redirect="true"/>
+  <file name="gallery.html" crc="4028854194" seo="true" mt="1622565795147" redirect="true"/>
+  <file name="index.html" crc="261265770" seo="true" mt="1622567360492" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1610667719897" redirect="true"/>
-  <file name="news.html" crc="3793337585" seo="true" mt="1621758197073" redirect="true"/>
-  <file name="без-имени-5.html" crc="327344719" seo="true" mt="1621758197073" redirect="true"/>
-  <file name="contacts-копия.html" crc="4091152025" seo="true" mt="1621758197073" redirect="true"/>
+  <file name="news.html" crc="4192268948" seo="true" mt="1622565795147" redirect="true"/>
+  <file name="без-имени-5.html" crc="4038950434" seo="true" mt="1622565795147" redirect="true"/>
+  <file name="contacts-копия.html" crc="4257720157" seo="true" mt="1622565795147" redirect="true"/>
 </manifest>
