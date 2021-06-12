@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1622568559613">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1623524638787">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-______.css" crc="3765961626" ref="gallery:news:index:без-имени-5:contacts-копия"/>
-    <file name="index.css" crc="4142464926" ref="index"/>
+    <file name="index.css" crc="107862396" ref="index"/>
     <file name="gallery.css" crc="297373550" ref="gallery"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
-    <file name="news.css" crc="3835818803" ref="news"/>
-    <file name="___-_____-5.css" crc="448250263" ref="без-имени-5"/>
+    <file name="news.css" crc="3823590507" ref="news"/>
+    <file name="___-_____-5.css" crc="76489131" ref="без-имени-5"/>
     <file name="contacts-_____.css" crc="4267013728" ref="contacts-копия"/>
   </folder>
   <folder name="scripts">
@@ -91,10 +91,10 @@
     <file name="u40053-r.png" crc="85440682" ref="contacts-копия"/>
     <file name="u40140-4.png" crc="520999358" ref="gallery:news:index:без-имени-5:contacts-копия"/>
   </folder>
-  <file name="gallery.html" crc="4020546464" seo="true" mt="1622568533508" redirect="true"/>
-  <file name="index.html" crc="4114807141" seo="true" mt="1622568533508" redirect="true"/>
+  <file name="gallery.html" crc="133634063" seo="true" mt="1623524623634" redirect="true"/>
+  <file name="index.html" crc="4054429324" seo="true" mt="1623524623634" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1610667719897" redirect="true"/>
-  <file name="news.html" crc="4085623081" seo="true" mt="1622568533508" redirect="true"/>
-  <file name="без-имени-5.html" crc="4061580675" seo="true" mt="1622568533508" redirect="true"/>
-  <file name="contacts-копия.html" crc="175532148" seo="true" mt="1622568533508" redirect="true"/>
+  <file name="news.html" crc="4117793519" seo="true" mt="1623524623634" redirect="true"/>
+  <file name="без-имени-5.html" crc="4215498494" seo="true" mt="1623524623634" redirect="true"/>
+  <file name="contacts-копия.html" crc="149146446" seo="true" mt="1623524623634" redirect="true"/>
 </manifest>
