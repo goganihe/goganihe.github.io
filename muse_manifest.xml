@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1623524638787">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="3dpm.ru" resolutions="1x" timestamp="1626391238801">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-______.css" crc="3765961626" ref="gallery:news:index:без-имени-5:contacts-копия"/>
-    <file name="index.css" crc="107862396" ref="index"/>
+    <file name="index.css" crc="393574996" ref="index"/>
     <file name="gallery.css" crc="297373550" ref="gallery"/>
     <file name="addnews.css" crc="4285747976" ref="addnews"/>
-    <file name="news.css" crc="3823590507" ref="news"/>
-    <file name="___-_____-5.css" crc="76489131" ref="без-имени-5"/>
+    <file name="news.css" crc="222553834" ref="news"/>
+    <file name="___-_____-5.css" crc="323891888" ref="без-имени-5"/>
     <file name="contacts-_____.css" crc="4267013728" ref="contacts-копия"/>
   </folder>
   <folder name="scripts">
@@ -79,7 +79,7 @@
     <file name="вставленное изображение 640x860.jpg" crc="482130639" seo="true" ref="без-имени-5">
       <caption webpage="без-имени-5" alt=""/>
     </file>
-    <file name="img_20210203_2027233-crop-u40121.jpg" crc="3848585823" seo="true" ref="contacts-копия">
+    <file name="img_20210203_2027233-crop-u40121.jpg" crc="4168660091" seo="true" ref="contacts-копия">
       <caption webpage="contacts-копия" alt=""/>
     </file>
     <file name="u40128.png" crc="3981788449" ref="contacts-копия"/>
@@ -90,11 +90,14 @@
     <file name="u40053.png" crc="69694330" ref="contacts-копия"/>
     <file name="u40053-r.png" crc="85440682" ref="contacts-копия"/>
     <file name="u40140-4.png" crc="520999358" ref="gallery:news:index:без-имени-5:contacts-копия"/>
+    <file name="1untitled.gif" crc="531442568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="gallery.html" crc="133634063" seo="true" mt="1623524623634" redirect="true"/>
-  <file name="index.html" crc="4054429324" seo="true" mt="1623524623634" redirect="true"/>
+  <file name="gallery.html" crc="133634063" seo="true" mt="1626390935304" redirect="true"/>
+  <file name="index.html" crc="399294931" seo="true" mt="1626391122896" redirect="true"/>
   <file name="addnews.html" crc="4080612951" seo="true" mt="1610667719897" redirect="true"/>
-  <file name="news.html" crc="4117793519" seo="true" mt="1623524623634" redirect="true"/>
-  <file name="без-имени-5.html" crc="4215498494" seo="true" mt="1623524623634" redirect="true"/>
-  <file name="contacts-копия.html" crc="149146446" seo="true" mt="1623524623634" redirect="true"/>
+  <file name="news.html" crc="609423" seo="true" mt="1626390935374" redirect="true"/>
+  <file name="без-имени-5.html" crc="139437234" seo="true" mt="1626390935304" redirect="true"/>
+  <file name="contacts-копия.html" crc="45822529" seo="true" mt="1626390935397" redirect="true"/>
 </manifest>
